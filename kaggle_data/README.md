@@ -2,7 +2,7 @@
 
 The data (folder eldenringScrap) is a Kaggle dataset url: https://www.kaggle.com/datasets/pedroaltobelli/ultimate-elden-ring-with-shadow-of-the-erdtree-dlc/data
 
-### Package management
+## Package management
 
 ```
 conda create -n elden
@@ -10,7 +10,7 @@ conda activate elden
 conda install pandas
 ```
 
-### Process method
+## Process method
 
 For table with numerical data like this one:
 
