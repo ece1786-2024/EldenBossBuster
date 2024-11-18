@@ -7,3 +7,4 @@ This utilizes **LlamaIndex**, **LangChain**, and **OpenAI** to query pre-indexed
 - Required packages:
   ```bash
   pip install llama-index langchain openai
+  pip install python-dotenv
