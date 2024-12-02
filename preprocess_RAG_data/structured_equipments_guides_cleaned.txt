@@ -1,0 +1,4754 @@
+Title: Greatswords are the Best Weapon in Elden Ring - Elden Ring All Greatswords Breakdown
+# Elden Ring Greatsword Equipment Guide
+
+## 1. Alabaster Lord Sword
+- **Characteristics**: 
+  - Weight: 8
+  - Damage Type: Physical + Magic
+  - Enables dual-wielding due to low weight.
+  - Weapon Skill: Alabaster Lord's Pull (provides increased poise).
+
+- **Strengths**:
+  - Highest physical damage among magic-infused greatswords.
+  - Deals +20 damage to gravity-type enemies.
+  - Best strength scaling of all magic dealing greatswords.
+
+- **Weaknesses**:
+  - Slightly shorter reach compared to other greatswords.
+  - Low magic damage compared to others.
+  - Acquired late in the game.
+
+- **Recommended Build**: 
+  - Ideal for strength-focused builds (50 strength for maximum effectiveness). 
+  - Consider pairing with a great shield for block countering or dual-wielding.
+
+---
+
+## 2. Ordovis's Greatsword
+- **Characteristics**:
+  - Weight: 12
+  - Damage Type: Physical + Holy
+  - Weapon Skill: Ordovis's Vortex.
+
+- **Strengths**:
+  - Highest attack rating of all heavy-infused greatswords.
+  - Has an AOE weapon skill that can be charged for increased damage.
+
+- **Weaknesses**:
+  - High stat requirements.
+  - Faith scaling is poor, limiting its effectiveness in faith builds.
+  - Found late in the game.
+
+- **Recommended Build**: 
+  - Optimal for strength-based builds. Aim for 50 strength and 25 faith which allows for using buffs like Golden Vow effectively.
+
+---
+
+## 3. Inseparable Sword
+- **Characteristics**:
+  - Weight: 10
+  - Damage Type: Physical + Holy
+  - Unique moveset.
+
+- **Strengths**:
+  - Deals +20 damage to undead enemies; prevents skeletons from reviving.
+  - Can achieve high holy damage with high faith.
+
+- **Weaknesses**:
+  - Low physical damage output.
+  - Poor scaling in strength and dexterity.
+  - Acquired late in the game.
+
+- **Recommended Build**: 
+  - Best in builds focused on high faith (80+). Pair with a sacred iron greatsword in dual-wield for added effectiveness against undead enemies.
+
+---
+
+## 4. Gargoyle's Black Blade
+- **Characteristics**:
+  - Weight: 11.5
+  - Damage Type: Physical + Holy.
+  - Weapon Skill: Corpse Wax Cutter.
+
+- **Strengths**:
+  - Highest attack rating among holy damage greatswords at high stats.
+  - Excellent for AOE damage.
+
+- **Weaknesses**:
+  - Poor scaling limits its effectiveness later in the game.
+  - Cannot change the ash of war.
+
+- **Recommended Build**: 
+  - Best for strength and faith mix. Aim for 50 strength and 50 faith to maximize damage. Can be effective in both melee and spellblade setups.
+
+---
+
+## 5. Sword of Milos
+- **Characteristics**:
+  - Weight: 10
+  - Damage Type: Physical.
+  - Restores 5 FP per kill; applies bleed buildup.
+
+- **Strengths**:
+  - One of the best in quality scaling, effective in various builds.
+  - Personal damage buff and debuffing capabilities.
+
+- **Weaknesses**:
+  - Short duration for the damage buff.
+  - Cannot change ash of war.
+
+- **Recommended Build**: 
+  - Best paired with another greatsword for jump attack combos. Ideal for quality builds around 55 strength and dexterity.
+
+---
+
+## 6. Morey Executioner's Sword
+- **Characteristics**:
+  - Weight: 11.5
+  - Damage Type: Physical + Magic.
+  - Weapon Skill: Aoj's Dancing Blade.
+
+- **Strengths**:
+  - Excellent weapon skill for quick bursts of damage.
+  - Good scaling for quality builds.
+
+- **Weaknesses**:
+  - Poor magic damage scaling.
+  - High stat requirements.
+
+- **Recommended Build**: 
+  - Best suited for hybrid melee builds focusing on strength and arcane. Recommended stats around 50 strength and 50 arcane.
+
+---
+
+## 7. Death's Poker
+- **Characteristics**:
+  - Weight: 8.5
+  - Damage Type: Physical + Magic.
+  - Weapon Skill: Ghost Flame Ignition.
+
+- **Strengths**:
+  - Low requirements and builds frostbite quickly.
+  - Powerful weapon skill.
+
+- **Weaknesses**:
+  - Lowest magic damage among greatswords.
+  - Intelligence scaling isn't beneficial.
+
+- **Recommended Build**: 
+  - Best for dexterity builds (50 dexterity, 20 intelligence). Can pair with spells to enhance effectiveness.
+
+---
+
+## 8. Hellfin Steeple
+- **Characteristics**:
+  - Weight: 11.5
+  - Damage Type: Physical + Magic.
+
+- **Strengths**:
+  - Highest total attack rating among magic greatswords.
+  - Buffs damage with its weapon skill.
+
+- **Weaknesses**:
+  - Average intelligence scaling.
+  - Found late in the game.
+
+- **Recommended Build**: 
+  - Effective for dual-wielding setups. Ideal stats would be around 50 strength and 50 intelligence.
+
+---
+
+## 9. Blasphemous Blade
+- **Characteristics**:
+  - Weight: 13.5
+  - Damage Type: Physical + Fire.
+  - Weapon Skill: Taker's Flame.
+
+- **Strengths**:
+  - Highest potential attack rating with healing effects on kills.
+  - Excellent scaling with fire damage buffs.
+
+- **Weaknesses**:
+  - High FP cost for weapon skill.
+  - Heavy weight.
+
+- **Recommended Build**: 
+  - Best for builds focusing on both strength and faith. Recommended stats around 50 strength, 50 dexterity, and 50 faith for optimal effect.
+
+---
+
+## 10. Darkmoon Greatsword
+- **Characteristics**:
+  - Weight: 10
+  - Damage Type: Physical + Magic.
+
+- **Strengths**:
+  - Highest magic damage among greatswords.
+  - Good stagger capability at range.
+
+- **Weaknesses**:
+  - High requirements for effective use.
+  - Needs frequent buffing.
+
+- **Recommended Build**: 
+  - Optimal for spellblade builds with a focus on intelligence. Best used alongside sorcery-enhancing talismans.
+
+---
+
+## 11. Sacred Relic Sword
+- **Characteristics**:
+  - Weight: 11
+  - Damage Type: Physical + Holy.
+
+- **Strengths**:
+  - Wave of Gold is a powerful weapon skill with high damage.
+
+- **Weaknesses**:
+  - Acquired late in the game; primarily an NG+ weapon.
+  - Lower physical damage than other keen scaling greatswords.
+
+- **Recommended Build**: 
+  - Best for high dexterity builds (around 55 dexterity and 50 faith for maximum efficiency).
+
+---
+
+## Non-Unique Greatswords
+
+### 12. Bastard Sword
+- **Characteristics**:
+  - Weight: 9
+  - Damage Type: Physical.
+
+- **Strengths**:
+  - Early acquisition and very low stat requirements.
+
+- **Weaknesses**:
+  - Middle-of-the-pack damage.
+
+- **Recommended Build**: 
+  - Versatile for many builds due to adaptability.
+
+---
+
+### 13. Claymore
+- **Characteristics**:
+  - Weight: 9
+  - Damage Type: Physical.
+
+- **Strengths**:
+  - Unique R2 thrust allows for longer reach and early game acquisition.
+
+- **Weaknesses**:
+  - Average damage compared to others.
+
+- **Recommended Build**: 
+  - Pair with ashes of war like Lion's Claw for extra utility.
+
+---
+
+### 14. Iron Greatsword
+- **Characteristics**:
+  - Weight: 12
+  - Damage Type: Physical.
+
+- **Strengths**:
+  - Best physical damage greatsword in the game.
+
+- **Weaknesses**:
+  - Obtained much later in the game.
+
+- **Recommended Build**: 
+  - Perfect for experimentation with multiple infusions due to its versatility.
+
+---
+
+### 15. Lord Sworn's Greatsword
+- **Characteristics**:
+  - Weight: 9
+  - Damage Type: Physical.
+
+- **Strengths**:
+  - Early acquisition and high crit rating.
+
+- **Weaknesses**:
+  - Average overall damage.
+
+- **Recommended Build**: 
+  - Best for early game; can be easily substituted for others as you progress.
+
+---
+
+### 16. Knight's Greatsword
+- **Characteristics**:
+  - Weight: 10
+  - Damage Type: Physical.
+
+- **Strengths**:
+  - High attack rating, can be obtained early.
+
+- **Weaknesses**:
+  - Could take time to farm.
+
+- **Recommended Build**: 
+  - Strong choice for early game builds focusing on strength.
+
+---
+
+### 17. Banished Knight's Greatsword
+- **Characteristics**:
+  - Weight: 10
+  - Damage Type: Physical.
+
+- **Strengths**:
+  - High attack rating available early.
+
+- **Weaknesses**:
+  - Farming might take a while.
+
+- **Recommended Build**: 
+  - Excellent for strong early game setups.
+
+---
+
+### 18. Forked Greatsword
+- **Characteristics**:
+  - Weight: 9
+  - Damage Type: Physical.
+
+- **Strengths**:
+  - Can trigger bleed buildup and found earlier than other greatswords.
+
+- **Weaknesses**:
+  - Lower overall damage.
+
+- **Recommended Build**: 
+  - Great for bleed-based builds, especially in conjunction with other status effect weapons.
+
+---
+
+### 19. Flamberge
+- **Characteristics**:
+  - Weight: 10
+  - Damage Type: Physical.
+
+- **Strengths**:
+  - Best keen scaling and can apply bleed buildup.
+
+- **Weaknesses**:
+  - Lower attack rating.
+
+- **Recommended Build**: 
+  - Suited for dexterity-focused builds.
+
+---
+
+### 20. Gargoyle's Greatsword
+- **Characteristics**:
+  - Weight: 11.5
+  - Damage Type: Physical.
+
+- **Strengths**:
+  - Good scaling and versatile with various ashes of war.
+
+- **Weaknesses**:
+  - Long acquisition time.
+
+- **Recommended Build**: 
+  - Ideal for builds focusing on maximizing scaling with high strength and dexterity.
+
+--- 
+
+This concludes the breakdown of various greatswords in Elden Ring, with a focus on their characteristics, strengths and weaknesses, and recommended builds for optimal usage.
+
+================================================================================
+
+Title: Katanas are the Best Weapon in Elden Ring - Elden Ring All Katanas Breakdown
+# Elden Ring Katana Equipment Guide
+
+## 1. Serpentbone Blade
+**Key Characteristics:**
+- Unique katana with a distinct R2 attack hitting twice.
+- Deals 100 physical damage.
+- Weight: 6.
+- Requires points in Strength and Dexterity.
+- Upgradeable with regular smithing stones, limited Ash of War.
+
+**Strengths:**
+- Causes poison buildup with each hit.
+- Strong for talisman synergy (e.g., Winged Sword Insignia).
+- High base damage, second highest among katanas.
+
+**Weaknesses:**
+- Missable if assassination quests are skipped.
+- Poison is generally less effective than bleed.
+- Shorter reach compared to Nagakiba and Hand of Malenia.
+
+**Recommended Builds:**
+- Synergizes well with talismans boosting poison damage.
+- Ideal for a Dexterity-focused build around 50.
+- Pair with another katana for dual-wielding to increase poison buildup and perhaps combine with bleed.
+
+---
+
+## 2. Moonveil
+**Key Characteristics:**
+- Default katanas moveset, deals both physical and magic damage.
+- Weight: 6.5.
+- Requires Strength, Dexterity, and Intelligence.
+
+**Strengths:**
+- Causes bleed buildup with each hit.
+- High stagger potential with the weapon skill (Transient Moonlight).
+- Can be obtained relatively early in the game.
+
+**Weaknesses:**
+- Shorter reach compared to Nagakiba and Hand of Malenia.
+- Lower magic damage than Magic Uchigatana.
+
+**Recommended Builds:**
+- Great for Intelligence-focused builds (ideal around 55 Dexterity and 50 Intelligence).
+- Consider using with the Carrion Regal Scepter for spellblade setups.
+- Dual-wield with a cold-infused Uchigatana for frostbite and bleed synergy.
+
+---
+
+## 3. Rivers of Blood
+**Key Characteristics:**
+- Default moveset, dealing physical and fire damage.
+- Weight: 6.5.
+- Requires Strength, Dexterity, and Arcane.
+
+**Strengths:**
+- Rapid hemorrhage buildup through the weapon skill (Corpse Piler).
+- High damage output, especially with talismans like Winged Sword Insignia.
+- Effective in NG+ due to its synergy with enemy max HP through bleed.
+
+**Weaknesses:**
+- Acquired late in the game.
+- Less effective against bleed-resistant/immune enemies.
+
+**Recommended Builds:**
+- Effective in hybrid melee-caster builds combining melee and Incantations.
+- Prioritize Arcane first, followed by Dexterity for a robust build around 55 Arcane and 50 Dexterity.
+
+---
+
+## 4. Meteoric Ore Blade
+**Key Characteristics:**
+- Unique overhead attack, dealing both physical and magic damage.
+- Weight: 7.5.
+- Requires Strength, Dexterity, and Intelligence.
+
+**Strengths:**
+- Highest attack rating among katanas.
+- Good strength scaling; effective for two-handed setups.
+- Bonus damage to gravity-weak enemies.
+
+**Weaknesses:**
+- Shortest range and poor weapon skill (Gravitas).
+- No capability to change Ash of War.
+
+**Recommended Builds:**
+- Strong for Strength-focused builds (target 55 Strength).
+- Pair with a cold-infused Uchi Katana for dual magic and bleed setups.
+
+---
+
+## 5. Dragon Scale Blade
+**Key Characteristics:**
+- Shares default moveset with 100% physical damage.
+- Weight: 5.5.
+- Requires Strength, Dexterity.
+
+**Strengths:**
+- High attack rating against dragon enemies.
+- Can apply frostbite damage with the Ice Lightning Sword buff.
+
+**Weaknesses:**
+- No native status effect.
+- Relatively short range and must be constantly buffed.
+
+**Recommended Builds:**
+- Best in dual-handed setups focusing on frostbite buildup.
+- Strong for low-level playthroughs due to its low requirements.
+
+---
+
+## 6. Hand of Malenia
+**Key Characteristics:**
+- Default moveset with 100% physical damage.
+- Weight: 7.
+- Requires Strength and high Dexterity.
+
+**Strengths:**
+- Second longest katana, high physical damage.
+- Powerful weapon skill (Waterfowl Dance).
+
+**Weaknesses:**
+- Acquired late in the game.
+- Slow bleed buildup in general.
+
+**Recommended Builds:**
+- Ideal for precision builds focusing on high Dexterity (minimum requirements around 16 Strength and 48 Dexterity).
+- Can be dual-wielded with Nagakiba for a strong reach combination.
+
+---
+
+## 7. Uchigatana
+**Key Characteristics:**
+- Default moveset, dealing 100 physical damage.
+- Weight: 5.5.
+- Early game availability.
+
+**Strengths:**
+- Causes bleed buildup and is versatile for various builds.
+- Strong weapon skill (Unsheathe) and can change Ash of War.
+
+**Weaknesses:**
+- One of the shorter katanas.
+
+**Recommended Builds:**
+- Suitable for status effect-based builds (consider bleed builds).
+- Pair well with other katanas for dual-wielding, enhancing bleed or adding poison/frostbite options.
+
+---
+
+## 8. Nagakiba
+**Key Characteristics:**
+- Unique R2 thrust attack, dealing 100 physical damage.
+- Weight: 7.
+- Requires Strength and Dexterity.
+
+**Strengths:**
+- Longest katana with good bleed buildup.
+- Versatile for various builds and early acquisition.
+
+**Weaknesses:**
+- Slower scaling compared to Uchigatana; requires a bit of strength for one-handed use.
+
+**Recommended Builds:**
+- Great for dual-wielding or two-handing setups. 
+- Consider pairing with Hand of Malenia for effective reach and damage combination.
+
+--- 
+
+This structured summary offers an overview of each katana's characteristics, strengths and weaknesses, and ideal builds or playstyles, helping players make informed decisions in Elden Ring.
+
+================================================================================
+
+Title: Whips are the Best Weapon in Elden Ring - Elden Ring All Whips Breakdown
+# Elden Ring Whips Equipment Guide
+
+## 1. Unique Whips
+
+### Magma Whip Candlestick
+- **Characteristics**: 
+    - Weight: 2.5
+    - Damage: Physical and Fire
+    - Requires points in Strength, Dexterity, and Faith.
+    - Special skill: Sea of Magma
+
+- **Strengths**:
+    - Cannot be parried.
+    - Higher attack rating than all non-unique whips (except Keen or Urumi).
+    - Has both fire and physical damage benefits from Flame Grant Me Strength.
+
+- **Weaknesses**:
+    - Shortest range of all whips.
+    - No bleed buildup.
+    - Found late in the game; tied to Patches' questline and missable.
+
+- **Recommended Build**: 
+    - Suggested for **dual wielding** with Urumi or Haslow’s Pedal Whip, applying Flame Art for effectiveness.
+    - Ideal stat spread: 50 Dexterity and 50 Faith.
+
+---
+
+### Giant's Red Braid
+- **Characteristics**: 
+    - Weight: 2.5
+    - Damage: Physical and Fire
+    - Requires points in Strength, Dexterity, and Faith.
+    - Special skill: Flame Dance
+
+- **Strengths**:
+    - Second highest attack rating of all whips.
+    - Cannot be parried.
+    - Great area-of-effect (AoE) damage with Flame Dance.
+
+- **Weaknesses**:
+    - Found extremely late in the game after defeating the Fire Giant.
+    - No status effect buildup.
+    - Cannot perform critical hits.
+
+- **Recommended Build**: 
+    - Excellent for **incantation builds** using the Claw Mark Seal. 
+    - Ideal stat spread: 50 Strength, 50 Faith, and 50 Dexterity.
+
+---
+
+## 2. Non-Unique Whips
+
+### The Whip
+- **Characteristics**: 
+    - Weight: 2
+    - Damage: Physical
+    - Requires Strength and Dexterity.
+
+- **Strengths**:
+    - Lightest whip in the game.
+    - Can change Ash of War and affinity.
+    - Easy to obtain early in the game (Castle Mourn).
+    
+- **Weaknesses**:
+    - Lowest damage of all whips.
+    - No bleed buildup.
+    - Limited useful Ashes of War.
+
+- **Recommended Build**: 
+    - Good for early-game **dual-wield setups** until better options are available.
+
+---
+
+### Thorned Whip
+- **Characteristics**: 
+    - Weight: 2.5
+    - Damage: Physical
+    - Requires Strength and Dexterity.
+
+- **Strengths**:
+    - Causes bleed buildup on hit.
+    - Can acquire multiple within a single playthrough.
+    - Cannot be parried.
+
+- **Weaknesses**:
+    - Difficult to farm late-game.
+    - Limited useful Ashes of War.
+    - Low critical hit potential.
+
+- **Recommended Build**: 
+    - Best used in a **bleed-focused build** paired with the Lord of Blood's Exaltation talisman.
+
+---
+
+### Urumi
+- **Characteristics**: 
+    - Weight: 3
+    - Damage: Physical
+    - Requires Strength and Dexterity.
+    - Unique charge attack: Long thrust attack.
+
+- **Strengths**:
+    - Highest attack rating of all whips when using Keen affinity.
+    - Can change Ash of War and affinity.
+    - Found early in the game.
+
+- **Weaknesses**:
+    - No bleed buildup on hit.
+    - Unique R2 has strange hitboxes that can miss.
+
+- **Recommended Build**: 
+    - Excellent for both **dual-wield setups** and **spell whip builds** focusing on intelligence.
+
+---
+
+### Haslow's Pedal Whip
+- **Characteristics**: 
+    - Weight: 3.5
+    - Damage: Physical
+    - Requires Strength and Dexterity.
+
+- **Strengths**:
+    - Causes bleed buildup with each hit.
+    - High attack rating close to Urumi.
+    - Can be found early in the game.
+
+- **Weaknesses**:
+    - Slightly shorter range than other whips.
+    - Limited useful Ashes of War.
+
+- **Recommended Build**: 
+    - Ideal for **bleed-focused builds** or dual-wielding with another whip (ideally Thorned Whip).
+
+---
+
+## 3. General Playstyles and Recommendations for Whip Equipment
+- **Dual Wielding**: 
+    - Popular strategy for whips, focusing on rapidly applying status effects like bleed.
+    - Options: Urumi with Magma Whip Candlestick or Haslow's Pedal Whip.
+
+- **Off-Hand Weapon Pairing**: 
+    - Pair with another weapon for PvP, catching enemies off-guard with erratic movements.
+
+- **Spell Whip Builds**: 
+    - Use whips in conjunction with casting incantations (e.g., Dragon Communion Seal).
+
+- **Status Effect Builds**: 
+    - Incorporate bleed or other elemental statuses by dual-wielding appropriate whips and talismans such as Lord of Blood’s Exaltation.
+
+This guide provides a comprehensive look into the unique and non-unique whips in Elden Ring, their characteristics, strengths and weaknesses, and the optimal builds to maximize their potential in gameplay.
+
+================================================================================
+
+Title: Twinblades are the Best Weapon in Elden Ring - Elden Ring All Twinblades Breakdown
+# Elden Ring Equipment Guide: Twinblades Breakdown
+
+## 1. Gargoyle's Black Blade
+### Key Characteristics:
+- **Type**: Twin Blade
+- **Weight**: 8.5
+- **Damage Type**: Physical and Holy
+- **Scaling Requirements**: Strength, Dexterity, Faith
+
+### Strengths:
+- Highest attack rating of all twin blades.
+- High damage at minimum requirements.
+- Benefits from talismans like Winged Sword Insignia and Rotten Winged Sword Insignia.
+- Great for successive hits due to high status effect build-up.
+
+### Weaknesses:
+- Poor Faith scaling.
+- Found late game (after defeating Black Blade Kindred).
+- Cannot change Ash of War; spinning slash is ineffective.
+- Holy damage resistance on tough bosses.
+- Lesser strength scaling compared to heavy infused twin blades.
+
+### Recommended Builds:
+- **Strength-based build**: Focus on boosting Strength (optimal at 80). Pair with a Great Shield for blocking and countering.
+- **Status effect build**: Use with talismans that enhance damage on successive hits.
+
+---
+
+## 2. Eleonora's Pole Blade
+### Key Characteristics:
+- **Type**: Twin Blade
+- **Weight**: 6
+- **Damage Type**: Physical and Fire
+- **Scaling Requirements**: Strength, Dexterity, Arcane
+
+### Strengths:
+- Causes bleed buildup on each hit.
+- Unique R2 attack that charges with rotation.
+- Effective weapon skill: Blood Blade Dance.
+- Lightweight and versatile, managing both physical and fire damage.
+
+### Weaknesses:
+- Located later in the game (Altus Plateau).
+- Split damage may struggle against fire-resistant foes.
+
+### Recommended Builds:
+- **Bleed build**: Optimal around 50 Dexterity and 50 Arcane. Pair with Dragon Communion Seal for hybrid spellcasting.
+- **Combat style**: Use two-handed for Blood Blade Dance or dual-wielded with synergistic bleed-inflicted Twin Blade.
+
+---
+
+## 3. Twin Blade
+### Key Characteristics:
+- **Type**: Twin Blade
+- **Weight**: 7
+- **Damage Type**: Physical
+- **Scaling Requirements**: Strength, Dexterity
+
+### Strengths:
+- Early game access (Dragonburnt Runes).
+- Allows various Ashes of War and affinity changes.
+- Close damage output to later-found twin blades.
+
+### Weaknesses:
+- Lowest damage across most infusions.
+- Generally outclassed by later-found twin blades.
+
+### Recommended Builds:
+- **Early game option**: Use while leveling up until better options are obtained.
+- **Status effect strategy**: Emphasize bleed or cold infusions when dual-wielding for effect buildup.
+
+---
+
+## 4. Twin Knight Swords
+### Key Characteristics:
+- **Type**: Twin Blade
+- **Weight**: 8
+- **Damage Type**: Physical
+- **Scaling Requirements**: Strength, Dexterity
+
+### Strengths:
+- Longest reach of all twin blades.
+- Good damage scaling with strength and dexterity.
+- Flexible for Ashes of War and affinity changes.
+
+### Weaknesses:
+- Found later in the game (Altus Plateau).
+- Generally less damage than Gargoyle's Twin Blade in most cases.
+
+### Recommended Builds:
+- **Balanced build**: Utilize for its versatility in scaling dexterity and strength.
+- **Two-handed approach**: Best for heavy cold or blood infusion due to effective scaling.
+
+---
+
+## 5. Godkin Peeler
+### Key Characteristics:
+- **Type**: Twin Blade
+- **Weight**: 8
+- **Damage Type**: Physical
+- **Scaling Requirements**: Strength and Dexterity
+
+### Strengths:
+- Best Keen and Occult scaling among twin blades.
+- Versatile with Ashes of War and changing Affinity.
+- Good for bleed builds.
+
+### Weaknesses:
+- Found later in the game (Altus Plateau).
+ 
+### Recommended Builds:
+- **Bleed build**: Ideal for pairing with another bleed-optimized twin blade for effectiveness.
+- **Strength-based build**: Focus on heavy infusion for maximum effectiveness; utilize setup with Seppuku for increased damage.
+
+---
+
+## 6. Gargoyle's Twin Blade
+### Key Characteristics:
+- **Type**: Twin Blade
+- **Weight**: 8.5
+- **Damage Type**: Physical
+- **Scaling Requirements**: Strength and Dexterity
+
+### Strengths:
+- Best overall damage rating among infusible twin blades.
+- High damage output across most categories.
+- Effective use of Ashes of War and Affinities.
+
+### Weaknesses:
+- Shortest length of all twin blades.
+- Found later in the game after defeating Valiant Gargoyle Duo.
+
+### Recommended Builds:
+- **Strength-focused setup**: Ideal candidate for two-handed builds. Utilize heavy, cold, or blood affinities for best results.
+- **Diverse combat style**: Consider one-handed use with fire or lightning for versatility while maintaining competitive damage output.
+
+================================================================================
+
+Title: Reapers are the Best Weapon in Elden Ring - Elden Ring All Reapers Breakdown
+# Elden Ring Reaper Weapons Breakdown
+
+## 1. Halo Scythe
+### Key Characteristics:
+- **Weight:** 8.5 
+- **Damage Types:** Primarily physical, with a weapon skill (Michaela's Ring of Light) that deals 100% holy damage.
+- **Scaling Requirements:** Strength, Dexterity, and Faith.
+  
+### Strengths:
+- Causes bleed buildup with every hit.
+- Effective against shielded enemies due to chip damage through shields (40% ignored).
+- Can be farmed early in the game from the Cleanrot Knight.
+- High physical damage output compared to its holy damage.
+- Long-range weapon skill that can be spammed for consistent damage.
+
+### Weaknesses:
+- Poor Faith scaling limits damage potential for Faith builds.
+- Holy damage is less effective against late-game bosses.
+- Cannot change the Ash of War or affinity.
+- Farming for this weapon can be time-consuming.
+
+### Recommended Builds:
+- Ideal for players focusing on physical damage with a mix of Faith, aiming for 50 in Strength and Dexterity.
+- Pair with the Grave Scythe for varied Ashes of War.
+- Can dual wield with another Halo Scythe for optimal damage scaling.
+
+---
+
+## 2. Wing Scythe
+### Key Characteristics:
+- **Weight:** 7.5 
+- **Damage Types:** Primarily physical, with similar scaling in Faith, Dexterity, and Strength.
+  
+### Strengths:
+- Highest damage potential among all Reapers, particularly in NG+ and beyond.
+- Lightest Reaper, allowing for greater stamina management.
+- Effective in PvP due to preventing the use of recovery flasks on enemies.
+- Causes bleed buildup with every hit.
+
+### Weaknesses:
+- High stat requirements limit early use.
+- Shorter reach compared to other Reapers.
+- Long animation for the weapon skill (Angel's Wings) can leave players vulnerable.
+- Similar limitations in holy damage as Halo Scythe.
+
+### Recommended Builds:
+- Best suited for hybrid builds prioritizing Dexterity and Faith (aim for 50 in both).
+- Can be used solo or in dual-wield setups, especially with weapons like the Grave Scythe for contrasting damage types and Ashes of War.
+
+---
+
+## 3. The Scythe
+### Key Characteristics:
+- **Weight:** 7.5 
+- **Damage Types:** Primarily physical and can inflict bleed status.
+  
+### Strengths:
+- Offers a unique R2 attack that can hit twice.
+- Longest of the Reapers, providing better reach.
+- Flexible with Ashes of War and affinities.
+- Found relatively early in the game.
+
+### Weaknesses:
+- Lowest damage among Reapers when using almost any infusion.
+- Difficulty in building a strong combo due to slower attack speed.
+
+### Recommended Builds:
+- Excellent for players seeking versatility with Ashes of War and status effects. 
+- Can dual wield with the Wing Scythe for enhanced Dexterity scaling.
+
+---
+
+## 4. Grave Scythe
+### Key Characteristics:
+- **Weight:** 9.5 
+- **Damage Types:** Primarily physical and known for bleed buildup.
+
+### Strengths:
+- Second longest Reaper, providing decent reach.
+- Higher total damage output than Scythe in most cases.
+- Allows for a wide variety of Ashes of War and affinities.
+- Can be farmed early from Skeletal Mages and can be acquired multiple times in a single playthrough.
+
+### Weaknesses:
+- Heaviest Reaper, which may impact stamina during attacks.
+- Farming can be tedious.
+
+### Recommended Builds:
+- Best suited for strength-focused builds, using quality or cold infusions to maximize damage.
+- Great for players looking to dual wield with a heavier focus on weapon skills for burst damage.
+- Recommended to pair with the Halo Scythe for versatility.
+
+---
+
+These weapons provide various playstyles and build options that can suit different player preferences while excelling in causing damage and status effects. Prioritizing appropriate attribute scaling will further enhance their effectiveness in gameplay.
+
+================================================================================
+
+Title: Colossal Weapons are the Best Weapon in Elden Ring - Elden Ring All Colossal Weapons Breakdown
+# Elden Ring Colossal Weapons Guide
+
+## 1. Grey Club
+- **Key Characteristics:**
+  - Unique R2 overhead swing, deals physical damage.
+  - One of the lightest colossal weapons (17 weight).
+  - High strength requirement.
+  
+- **Strengths:**
+  - Buffable with grease and spells.
+  - Wide variety of potential damage boosts via buffs.
+  - Can achieve high attack ratings with proper scaling (896 with specific build).
+
+- **Weaknesses:**
+  - Shorter length compared to other colossal weapons.
+  - Cannot be infused with Ashes of War.
+  - Lower base attack rating than most colossal weapons.
+
+- **Recommended Builds:**
+  - Strength/Faith build (claw mark seal for spells).
+  - Jump attack build paired with a lighter colossal weapon.
+
+---
+
+## 2. Troll's Hammer
+- **Key Characteristics:**
+  - Deals physical and fire damage.
+  - Lightest colossal weapon (16 weight).
+  
+- **Strengths:**
+  - High attack rating for its weight.
+  - Found relatively early in the game.
+
+- **Weaknesses:**
+  - Short length and poor faith scaling.
+  - Cannot be infused with Ashes of War.
+
+- **Recommended Builds:**
+  - Dual-wield jump attack build with another lighter weapon.
+  - Focus on maximizing strength for damage output.
+
+---
+
+## 3. Dragon Great Claw
+- **Key Characteristics:**
+  - Deals physical and lightning damage.
+  - Lightest colossal weapon (16 weight).
+
+- **Strengths:**
+  - Increased damage against dragon-type enemies (30%).
+  - Slightly longer than most colossal weapons.
+
+- **Weaknesses:**
+  - Cannot be infused with Ashes of War.
+  - Found later in the game.
+
+- **Recommended Builds:**
+  - Dual wielding with a lighter weapon (e.g., Watchdog Staff).
+  - Focus on high strength and dexterity for maximum efficiency.
+
+---
+
+## 4. Watchdog Staff
+- **Key Characteristics:**
+  - Deals physical damage.
+  - Average weight for a colossal weapon (19 weight).
+
+- **Strengths:**
+  - Longer reach than most colossal weapons.
+  - Unique weapon skill provides ranged damage option.
+
+- **Weaknesses:**
+  - Low attack rating for its weight.
+  - Cannot be infused with Ashes of War.
+
+- **Recommended Builds:**
+  - Melee builds with a secondary focus on ranged attacks.
+  - Potential compatibility with sorcery.
+
+---
+
+## 5. Staff of the Avatar
+- **Key Characteristics:**
+  - Deals physical and holy damage.
+  - Average weight (20 weight).
+
+- **Strengths:**
+  - Highest potential attack rating (730) among unique weapons.
+  - Long reach.
+
+- **Weaknesses:**
+  - Found very late in the game.
+  - Holy damage is less effective against late-game bosses.
+
+- **Recommended Builds:**
+  - Strength/Faith builds utilizing the claw mark seal for buffs.
+  - Focus on maximizing attack ratings through stat investment.
+
+---
+
+## 6. Rotten Staff
+- **Key Characteristics:**
+  - Deals physical damage.
+  - One of the lighter colossal weapons (18 weight).
+
+- **Strengths:**
+  - Causes scarlet rot buildup per hit.
+  - Comparatively longer reach.
+
+- **Weaknesses:**
+  - Very low attack rating compared to other colossal weapons.
+  - Late-game acquisition.
+
+- **Recommended Builds:**
+  - Dual-wield build focused on scarlet rot buildup.
+  - Pairing with a weapon having a better Ash of War.
+
+---
+
+## 7. Envoy's Great Horn
+- **Key Characteristics:**
+  - Deals physical and holy damage.
+  - Average weight (19.5 weight).
+
+- **Strengths:**
+  - Great ocular bubble skill can deal significant damage.
+  
+- **Weaknesses:**
+  - Found late in the game.
+  - Holy damage is resisted by many late-game bosses.
+
+- **Recommended Builds:**
+  - Builds focusing on maximizing weapon skill damage.
+  - Mixing with claw mark seal for buff support.
+
+---
+
+## 8. Giza’s Wheel
+- **Key Characteristics:**
+  - Physical damage with R2 attack leaving blade spinning.
+  - Average weight (19 weight).
+
+- **Strengths:**
+  - Causes blood loss buildup on hits.
+  - Second longest reach among colossal weapons.
+
+- **Weaknesses:**
+  - Cannot be infused with Ashes of War.
+  - Low effectiveness of the spinning will skill.
+
+- **Recommended Builds:**
+  - Blood loss-centric builds using R2 attacks.
+  - Pairing with bleed-focused accessories for optimal damage.
+
+---
+
+## 9. Falling Star Beast Jaw
+- **Key Characteristics:**
+  - Deals physical and magic damage.
+  - One of the heaviest colossal weapons (21.5 weight).
+
+- **Strengths:**
+  - Deals extra damage to gravity-type enemies.
+  - Longest reach among colossal weapons.
+
+- **Weaknesses:**
+  - Poor intelligence scaling.
+  - Cannot be infused with Ashes of War.
+
+- **Recommended Builds:**
+  - Quality scaling builds focusing on strength and dexterity.
+  - Gravity-based damage builds for maximum potential.
+
+---
+
+## 10. Axe of Godfrey
+- **Key Characteristics:**
+  - Deals physical damage.
+  - One of the lightest colossal weapons (18 weight).
+
+- **Strengths:**
+  - Exceptional attack rating when buffed with regal roar.
+  - Hyper armor during skill execution.
+
+- **Weaknesses:**
+  - Cannot be infused with Ashes of War.
+  - Short reach compared to other colossal weapons.
+
+- **Recommended Builds:**
+  - Build focusing on maintaining high poise.
+  - Combination of block and counter-denying setups.
+
+---
+
+## 11. Duelist Great Axe
+- **Key Characteristics:**
+  - Deals physical damage.
+  - Average weight for a colossal weapon (20 weight).
+
+- **Strengths:**
+  - Can be infused with Ashes of War.
+  - Comparable to unique colossal weapons in attack rating.
+
+- **Weaknesses:**
+  - Found late in the game, can be missable.
+  - Shortest length among all colossal weapons.
+
+- **Recommended Builds:**
+  - Dual-wield builds with emphasis on dexterity.
+  - Utilize effective Ashes of War for versatile damage.
+
+---
+
+## 12. Rotten Great Axe
+- **Key Characteristics:**
+  - Deals physical damage.
+  - Average weight (20 weight).
+
+- **Strengths:**
+  - Applies scarlet rot buildup per hit.
+  - Capability to be infused with Ashes of War.
+
+- **Weaknesses:**
+  - Late-game acquisition and shortest length.
+  - Lower average damage compared to unique colossal weapons.
+
+- **Recommended Builds:**
+  - Focus on dual-wield set ups to enhance scarlet rot.
+  - Combining with Poison builds for optimal damage output.
+
+---
+
+## 13. Golem's Halberd
+- **Key Characteristics:**
+  - Unique horizontal R2 that does physical damage.
+  - Heavy weight (21.5 weight).
+
+- **Strengths:**
+  - Can be infused with Ashes of War.
+  - Second longest of all colossal weapons.
+
+- **Weaknesses:**
+  - Heavy weight necessitates high equipment load.
+  - Low stagger damage with unique ash of war.
+
+- **Recommended Builds:**
+  - Pair with a great shield for block-counter setups.
+  - Focus on maximizing strength for effective damage.
+
+---
+
+## 14. Giant Crusher
+- **Key Characteristics:**
+  - Unique R2 somersault that flattens enemies.
+  - Heaviest weapon (26.5 weight).
+
+- **Strengths:**
+  - Outstanding attack rating and scaling with heavy infusions.
+  - High physical damage and guard boost.
+
+- **Weaknesses:**
+  - Short length compared to other colossal weapons.
+  - Requires extensive endurance for usage.
+
+- **Recommended Builds:**
+  - Heavy strength-based builds utilizing tandem with infusions.
+  - Synergize with boosts and grease buffs for extreme damage output.
+
+---
+
+## 15. Prelate Infernal Crozier
+- **Key Characteristics:**
+  - Deals physical damage with unique upward swing.
+  - Heavy weight (23.5 weight).
+
+- **Strengths:**
+  - Can be infused with Ashes of War.
+  - Good potential for triggering status effects rapidly.
+
+- **Weaknesses:**
+  - Found late in the game.
+  - Short length compared to other colossal weapons.
+
+- **Recommended Builds:**
+  - Builds emphasizing fast attacks paired with hemorrhage effects.
+  - Utilizing buffs for amplifying attack ratings in NG+.
+
+--- 
+
+This structured guide provides a comprehensive look at the colossal weapons discussed in the video, highlighting their unique attributes, strengths and weaknesses, and suggesting optimal playstyles or builds for players looking to incorporate them into their gameplay strategies in Elden Ring.
+
+================================================================================
+
+Title: Halberds are the Best Weapon in Elden Ring - Elden Ring All Halberds Breakdown
+# Elden Ring Equipment Guide: Halberds Breakdown
+
+## 1. Gargoyle's Black Halberd
+- **Type**: Unique Halberd
+- **Damage**: Physical and Holy
+- **Weight**: 12
+- **Requirements**: High Strength, Faith; some Dexterity
+- **Aesthetic**: Shares the default moveset of most halberds.
+
+### Strengths:
+- Very high attack rating (approx. 715 at minimum requirements).
+- Good early-game weapon; obtainable from the Black Blade Kindred in Caelid.
+- Scales well with Strength and Faith.
+
+### Weaknesses:
+- Deals Holy damage, which is resisted by many end-game bosses.
+- Cannot change Ash of War (Spinning Slash) and has poor scaling.
+- Better in earlier stages of the game.
+
+### Recommended Builds:
+- Best suited for Strength/Faith hybrids aiming for high damage early on.
+- Consider using alongside a Claw Mark seal for incantations or with a great shield for block counters.
+
+---
+
+## 2. Ripple Crescent Halberd
+- **Type**: Unique Halberd
+- **Damage**: Physical
+- **Weight**: 8.5
+- **Requirements**: Strength, Dexterity, Arcane
+
+### Strengths:
+- Can be buffed with weapon buffs.
+- Fantastic Arcane scaling.
+- Third longest reach among halberds, obtainable early in the game.
+
+### Weaknesses:
+- Low attack rating compared to most other halberds.
+  
+### Recommended Builds:
+- Ideal for Arcane-focused builds; aim for ~45 Arcane and ~45 Faith.
+- Use with Dragon communion seals and incantations like Golden Vow.
+
+---
+
+## 3. Golden Halberd
+- **Type**: Unique Halberd
+- **Damage**: Physical and Holy
+- **Weight**: 13.5
+- **Requirements**: High Strength; some Faith and Dexterity
+
+### Strengths:
+- Highest attack rating of all halberds; good early game option.
+- Unique R2 attack for additional damage.
+
+### Weaknesses:
+- Heaviest halberd with limited Ash of War functionality.
+- Holy damage is resisted by many bosses.
+
+### Recommended Builds:
+- Excellent for Strength/Faith hybrid builds; can utilize the Golden Vow incantation.
+- Consider dual-wielding with gargoyle's black halberd for synergistic damage.
+
+---
+
+## 4. Dragon Halberd
+- **Type**: Unique Halberd
+- **Damage**: Physical
+- **Weight**: 10.5
+- **Requirements**: Some Strength and Dexterity
+
+### Strengths:
+- Spinning Slash provides powerful buffs.
+- High attack rating when buffed.
+- Quality scaling for effectiveness in NG+.
+
+### Weaknesses:
+- Average attack rate without buffs.
+- One of the shortest halberds.
+
+### Recommended Builds:
+- Best in a cold-infused jump attack build or paired with another cold-infused weapon.
+- Use Spear Talisman for maximizing thrust damage potential.
+
+---
+
+## 5. Loretta's Warsicle
+- **Type**: Unique Halberd
+- **Damage**: Physical and Magic
+- **Weight**: 10
+- **Requirements**: Strength, Intelligence, and Dexterity
+
+### Strengths:
+- Fast attack speed, second longest reach among halberds.
+- R1 can tank hits due to hyper armor.
+
+### Weaknesses:
+- Found towards the end of the game.
+- Loretta's Slash doesn’t deal significant damage compared to other halberds.
+
+### Recommended Builds:
+- Focus on a quality route; split between Strength and Dexterity.
+- Effective for quick, repetitive attack builds with talismans that boost attack speed.
+
+---
+
+## 6. Commander's Standard
+- **Type**: Unique Halberd
+- **Damage**: Physical
+- **Weight**: 11.5
+- **Requirements**: High Strength and Dexterity
+
+### Strengths:
+- Buffs damage and defenses by 20%.
+- Longest reach of all halberds.
+
+### Weaknesses:
+- Buff duration is short with a long casting time.
+- Lower attack rating unbuffed.
+
+### Recommended Builds:
+- Jump attack playstyle using Rallying Standard for buffing mid-combat.
+- Can pair with great shields for enhanced tanking capabilities.
+
+---
+
+## Infusible Halberds
+
+### 7. Halberd
+- **Type**: Infusible Halberd
+- **Damage**: Physical
+- **Weight**: 8
+- **Requirements**: Strength and Dexterity
+
+### Strengths:
+- Early game availability; lightweight.
+- R1 attack allows for spear talisman use.
+
+### Weaknesses:
+- Lower attack rating than most other halberds.
+
+### Recommended Builds:
+- Best in a strength/faith hybrid build using incantations.
+
+---
+
+### 8. Banished Knights Halberd
+- **Type**: Infusible Halberd
+- **Damage**: Physical
+- **Weight**: 8
+- **Requirements**: Strength and Dexterity
+
+### Strengths:
+- Higher attack rating than the base halberd.
+- Good overall balance of stats.
+
+### Weaknesses:
+- Lower attack rating compared to many unique halberds.
+
+### Recommended Builds:
+- Suitable for a thrusting moveset with emphasis on quality scaling.
+
+---
+
+### 9. Lucerne
+- **Type**: Infusible Halberd
+- **Damage**: Physical
+- **Weight**: 7
+- **Requirements**: Strength and Dexterity
+
+### Strengths:
+- Chip damage through blocks.
+- Fast attacks.
+
+### Weaknesses:
+- Short reach and low attack rating.
+
+### Recommended Builds:
+- Use for PVP situations to chip away at opponents' health.
+
+---
+
+### 10. Glaive
+- **Type**: Infusible Halberd
+- **Damage**: Physical
+- **Weight**: 10
+- **Requirements**: Strength and Dexterity
+
+### Strengths:
+- High damage and reach.
+- Good scaling for quality builds.
+
+### Weaknesses:
+- Lacks unique attributes; fairly standard.
+
+### Recommended Builds:
+- Versatile option for hybrid builds or pure melee combat.
+
+---
+
+### 11. Vulgar Militia Chattel
+- **Type**: Infusible Halberd
+- **Damage**: Physical
+- **Weight**: 8
+- **Requirements**: Strength and Dexterity
+
+### Strengths:
+- Chip damage through blocks.
+- Available early on, plus can be farmed.
+
+### Weaknesses:
+- Short reach.
+
+### Recommended Builds:
+- Best for PVP; consider using with bleed-based builds.
+
+---
+
+### 12. Vulgar Militia Saw
+- **Type**: Infusible Halberd
+- **Damage**: Physical
+- **Weight**: 8
+- **Requirements**: Strength and Dexterity
+
+### Strengths:
+- Only halberd with native bleed buildup.
+- Can be farmed easily.
+
+### Weaknesses:
+- Shortest halberd, leading to less effectiveness in some scenarios.
+
+### Recommended Builds:
+- Ideal for status effect builds or dual-wielding strategies focusing on bleed.
+
+---
+
+### 13. Guardian Sword Spear
+- **Type**: Infusible Halberd
+- **Damage**: Physical
+- **Weight**: 9
+- **Requirements**: Strength and Dexterity
+
+### Strengths:
+- High dexterity scaling and fast attack speed.
+- Near top performance for infusion damage.
+
+### Weaknesses:
+- Middle reach; not particularly unique.
+
+### Recommended Builds:
+- Can work well with various ashes of war that benefit from dexterity.
+
+---
+
+### 14. Gargoyle's Halberd
+- **Type**: Infusible Halberd
+- **Damage**: Physical
+- **Weight**: 12
+- **Requirements**: High Strength and Dexterity 
+
+### Strengths:
+- High attack rating with heavy infusions.
+- Useful against enemies resistant to slash damage.
+
+### Weaknesses:
+- One of the heaviest with the shortest reach.
+
+### Recommended Builds:
+- Strength and faith hybrid with diversified damage options.
+
+---
+
+### 15. Knight Rider Glaive
+- **Type**: Infusible Halberd
+- **Damage**: Physical
+- **Weight**: 12
+- **Requirements**: High Strength and Dexterity 
+
+### Strengths:
+- High attack rating; good strength scaling.
+- Solid single-target damage potential.
+
+### Weaknesses:
+- Heavyweight halberd offers limited mobility.
+
+### Recommended Builds:
+- Great for strength-focused players aiming for high damage output.
+
+---
+
+### 16. Pest Glaive
+- **Type**: Infusible Halberd
+- **Damage**: Physical
+- **Weight**: 7
+- **Requirements**: Strength and Dexterity 
+
+### Strengths:
+- Lightest halberd; early-game locatable.
+
+### Weaknesses:
+- Second lowest attack rating; short reach.
+
+### Recommended Builds:
+- Best suited for a bleed build utilizing infusions effectively.
+
+================================================================================
+
+Title: Curved Swords are the Best Weapon in Elden Ring - Elden Ring All Curved Swords Breakdown
+# Elden Ring Curved Swords Equipment Guide
+
+## Unique Curved Swords
+
+### 1. Magma Blade
+- **Characteristics**: 
+  - Deals physical and fire damage
+  - Heavy, weight 4
+  - Requires strength, dexterity, and faith
+  - Weapon skill: Magma Shower, drops magma causing area damage
+  
+- **Strengths**:
+  - Competitively scales in NG+ with high strength and faith
+  - Can deal substantial damage based on attributes
+  - Good for area control with magma effect
+
+- **Weaknesses**:
+  - Less damage compared to similar weapons early in the game
+  - Shorter reach compared to other curved swords
+
+- **Recommended Builds**: 
+  - Dual-wielding with another fire-infused curved sword
+  - Pair with a cold-infused curved sword to trigger frostbite
+  - Compatible with Claw Marks Seal for buffing incantations
+
+---
+
+### 2. Nox Flowing Sword
+- **Characteristics**: 
+  - Deals physical damage
+  - Average weight 3.5
+  - Requires strength and dexterity
+  - Weapon skill: Flowing Form, has a wide hitbox
+
+- **Strengths**:
+  - Effective in PvP due to its hitbox and block penetration
+  - Long-range weapon skill for crowd control
+
+- **Weaknesses**:
+  - Lower attack rating for PvE
+  - Damage is less effective against heavy armor
+
+- **Recommended Builds**: 
+  - Pair with another curved sword for dual-wielding
+  - Use with a shield for block counters and crowd control
+
+---
+
+### 3. Wing of Astel
+- **Characteristics**: 
+  - Deals physical and magic damage
+  - Lightweight, weight 2.5
+  - Requires strength, dexterity, and intelligence
+  - Unique R2 fires magic projectiles; weapon skill: Nebula
+
+- **Strengths**:
+  - High utility with both melee and ranged options
+  - Nebula is a top-tier weapon skill
+
+- **Weaknesses**:
+  - Projectiles scale primarily with intelligence, not optimal for pure physical builds
+
+- **Recommended Builds**: 
+  - Balanced build favoring both intelligence and dexterity
+  - Incorporate spells for synergy with weapon skills
+
+---
+
+### 4. Eclipse Shotel
+- **Characteristics**: 
+  - Deals physical and holy damage
+  - Lightweight, weight 3
+  - Requires strength, dexterity, and faith
+  - Weapon skill: Death Flare adds deathblight effect
+
+- **Strengths**:
+  - Excellent for PvP, penetrating blocks and causing deathblight
+  - Good for dueling strategies
+
+- **Weaknesses**:
+  - Mediocre in PvE situations
+  - Difficult to use effectively in chaotic fights
+
+- **Recommended Builds**: 
+  - Pair with other weapons that afflict deathblight
+  - Use in PvP setups leveraging stealth and surprise tactics
+
+---
+
+## Non-Unique Curved Swords
+
+### 5. Scimitar
+- **Characteristics**: 
+  - Deals physical damage
+  - Lightweight, weight 3
+  - Requires strength and dexterity
+
+- **Strengths**:
+  - Quick and agile, good for early game builds
+  - Can set up for bleed builds
+
+- **Weaknesses**:
+  - Outclassed by other curved swords in terms of reach and damage
+
+- **Recommended Builds**: 
+  - Dual-wield for bleed builds focusing on fast attacks
+
+---
+
+### 6. Falcon
+- **Characteristics**: 
+  - Deals physical damage
+  - Average weight 3.5
+  - Requires strength and dexterity
+
+- **Strengths**:
+  - High attack rating among curved swords
+  - Good for flame art and sacred infusions
+
+- **Weaknesses**:
+  - Slightly outperformed by higher-tier options like Bandit's Curved Sword
+
+- **Recommended Builds**: 
+  - Focus on sacred flame art for maximum damage
+  - Dual wielding for effective elemental damage
+
+---
+
+### 7. Shamsher
+- **Characteristics**: 
+  - Deals physical damage
+  - Average weight 3.5
+  - Requires strength and dexterity
+
+- **Strengths**:
+  - Decent attack rating for early-game curbed swords
+
+- **Weaknesses**:
+  - Can only be found in limited quantities 
+
+- **Recommended Builds**: 
+  - Pairing with other curved swords for dual-wielding strategies
+
+---
+
+### 8. Gross Messer
+- **Characteristics**: 
+  - Deals physical damage
+  - Heavy weight 4.5
+  - Requires strength and dexterity
+
+- **Strengths**:
+  - Second highest attack rating among curved swords
+  - Good for applying frostbite damage
+
+- **Weaknesses**:
+  - Shorter reach compared to Bandit's Curved Sword
+
+- **Recommended Builds**: 
+  - Suitable for cold or fire-infused damage builds
+  - Useful in dual-wield setups
+
+---
+
+### 9. Bandit's Curved Sword
+- **Characteristics**: 
+  - Deals physical damage
+  - Heaviest curved sword, weight 5
+  - Requires strength and dexterity
+
+- **Strengths**:
+  - Highest attack rating among curved swords
+  - Long reach and versatility make it the top choice in many builds
+
+- **Weaknesses**:
+  - Can be slow to farm at early levels
+
+- **Recommended Builds**: 
+  - Focus on maximizing damage with flame, lightning, or sacred arts
+  - Excellent dual-wield potential with status effect builds
+
+---
+
+### 10. Châtel
+- **Characteristics**: 
+  - Deals physical damage
+  - Lightweight, weight 2
+  - Requires strength and dexterity
+
+- **Strengths**:
+  - Stagger potential with quick charged R2 attacks
+
+- **Weaknesses**:
+  - Weak overall damage compared to other curved swords
+
+- **Recommended Builds**: 
+  - Use with shields for block counters or in spellblade setups
+
+---
+
+### 11. Scavenger's Curved Sword
+- **Characteristics**: 
+  - Deals physical damage
+  - Average weight 3.5
+  - Requires strength and dexterity
+  
+- **Strengths**:
+  - Native bleed buildup, excellent for rapid status effect application
+
+- **Weaknesses**:
+  - Limited availability in playthroughs
+
+- **Recommended Builds**: 
+  - Dual-wield for maximizing bleed build setup in combination with another curved sword
+
+---
+
+### 12. Mantis Blade
+- **Characteristics**: 
+  - Deals physical damage
+  - Heavy weight 4 
+  - Requires strength and dexterity
+
+- **Strengths**:
+  - Extended charge R2 range, effective for staggering enemies
+
+- **Weaknesses**:
+  - Short reach compared to other curved swords
+
+- **Recommended Builds**: 
+  - Pair with shields or utilize in a spellblade setup for spellcasting and melee synergy
+
+---
+
+### 13. Beastman’s Curved Sword
+- **Characteristics**: 
+  - Deals physical damage
+  - Heavy weight 4
+  - Requires strength and dexterity
+  
+- **Strengths**:
+  - Unique jumping attacks hit multiple times for increased damage
+
+- **Weaknesses**:
+  - Only available late in the game, making it less accessible for new players
+
+- **Recommended Builds**: 
+  - Heavy infusion build combined with casting and shield usage
+  - Great for aggressive melee-focused play
+
+---
+
+### 14. Flowing Curved Sword
+- **Characteristics**: 
+  - Deals physical damage
+  - Average weight 3.5
+  - Requires strength and dexterity
+
+- **Strengths**:
+  - Unique R2 attack allows for rhythmic multi-hit combinations
+
+- **Weaknesses**:
+  - Lower overall damage output compared to higher-tier swords
+
+- **Recommended Builds**: 
+  - Use alongside buffs to enhance unique R2 effectiveness
+
+---
+
+### 15. Serpent God’s Curved Sword
+- **Characteristics**: 
+  - Deals physical damage
+  - Heavy weight 4
+  - Requires strength and dexterity
+  
+- **Strengths**:
+  - Heals with kills, making it beneficial for aggressive playstyles
+
+- **Weaknesses**:
+  - Healing not effective against bosses
+
+- **Recommended Builds**: 
+  - Pair with a second curved sword for healing synergy in mob encounters
+
+---
+
+This summarization compiles the strengths, weaknesses, and recommended builds for various curved swords in Elden Ring, providing players with insights into how to optimize their gameplay using these weapons.
+
+================================================================================
+
+Title: Thrusting Swords are the Best Weapon in Elden Ring - Elden Ring All Thrusting Swords Breakdown
+# Elden Ring Thrusting Swords Breakdown
+
+## 1. Frozen Needle
+### Key Characteristics
+- **Weapon Type**: Unique Thrusting Sword
+- **Attack Style**: Chargeable R2 that fires the needle for extended range
+- **Damage Type**: Exclusively physical damage
+- **Weight**: 2.5 (Lightest thrusting sword)
+- **Attributes Required**: Strength and Dexterity
+
+### Strengths
+- Excellent range with charged R2 attack.
+- High versatility due to faint ability.
+- Effective against enemies with shields.
+- Good frostbite buildup potential.
+- Silent attack suitable for stealth builds.
+- Great for dual-wielding.
+
+### Weaknesses
+- Low attack rating.
+- Short reach compared to other thrusting swords.
+- Limited strength scaling.
+
+### Recommended Builds/Playstyles
+- Best for first playthroughs focusing on dexterity builds.
+- Effective in a dual-wield build focusing on status effects (bleed/frost).
+- Good for players who want to utilize stealth mechanics in combat.
+
+---
+
+## 2. Rapier
+### Key Characteristics
+- **Weapon Type**: Thrusting Sword
+- **Attack Style**: Standard thrusts with high critical damage.
+- **Damage Type**: Physical
+- **Weight**: 2.5 (Lightweight)
+- **Attributes Required**: Strength and Dexterity
+
+### Strengths
+- High critical rating (130) making it ideal for parries and backstabs.
+- Extremely lightweight; suitable for builds using Blue Dancer Charm.
+- Good for critical damage-focused builds.
+
+### Weaknesses
+- Second-lowest attack rating of thrusting swords.
+- Short reach, making it less effective in long-range engagements.
+
+### Recommended Builds/Playstyles
+- Critical attack-focused build with emphasis on backstabs and parry counterattacks.
+- Works well with talismans that boost critical damage.
+- Suitable for light load builds.
+
+---
+
+## 3. S Stock
+### Key Characteristics
+- **Weapon Type**: Thrusting Sword
+- **Attack Style**: Regular thrusts with a slashing R2.
+- **Damage Type**: Physical
+- **Weight**: 4.5 (Heavier thrusting sword)
+- **Attributes Required**: Strength and Dexterity
+
+### Strengths
+- High attack rating and good reach.
+- R2 slash provides a piercing damage alternative against resistant enemies.
+- Can be acquired easily in a single playthrough.
+
+### Weaknesses
+- Slightly heavier, which might affect mobility.
+- Lower critical damage compared to other swords.
+
+### Recommended Builds/Playstyles
+- Ideal for builds focusing on repeated strikes rather than critical hits.
+- Good with status effect build (bleed/frost).
+
+---
+
+## 4. Noble's S Stock
+### Key Characteristics
+- **Weapon Type**: Thrusting Sword
+- **Attack Style**: Similar to the S Stock with a slashing R2.
+- **Damage Type**: Physical
+- **Weight**: 3.5 (Average)
+- **Attributes Required**: Strength and Dexterity
+
+### Strengths
+- Good potential with elemental infusions (fire, lightning, etc.).
+- Average weight fits into various builds.
+
+### Weaknesses
+- Difficult to acquire.
+- Lower critical attack damage.
+
+### Recommended Builds/Playstyles
+- Best suited for a repeated attack build.
+- Works well with elemental infusions for added versatility.
+
+---
+
+## 5. Cleanrot Knight Sword
+### Key Characteristics
+- **Weapon Type**: Thrusting Sword
+- **Attack Style**: Standard thrusts.
+- **Damage Type**: Physical
+- **Weight**: 4.0 (Heavier thrusting sword)
+- **Attributes Required**: Strength and Dexterity
+
+### Strengths
+- Highest attack rating with elemental infusions.
+- Longest reach among thrusting swords.
+- Great for strength-focused builds.
+
+### Weaknesses
+- Lacks sweeping attacks, making it less effective against resistant enemies.
+- Heavy weight could hinder quick movements.
+
+### Recommended Builds/Playstyles
+- Suitable for strength builds using heavy elemental infusions.
+- Pairs well with a shield for defensive and offensive playstyle.
+
+---
+
+## 6. Roger’s Rapier
+### Key Characteristics
+- **Weapon Type**: Thrusting Sword
+- **Attack Style**: Unique R2 that hits quick and twice.
+- **Damage Type**: Physical
+- **Weight**: 3.5 (Average)
+- **Attributes Required**: Strength and Dexterity
+
+### Strengths
+- High damage potential with quick attacks, ideal for status effects.
+- Higher attack rating than most thrusting swords.
+- Comes with powerful ash of war (Glimpse Blade Phalanx).
+
+### Weaknesses
+- Less raw damage per hit compared to slower, heavier weapons.
+- Requires good timing for maximum effectiveness.
+
+### Recommended Builds/Playstyles
+- Excellent for duelists using Glimpse Blade Phalanx for crowd control.
+- Pairs well with bleed infusion or other status effects.
+
+---
+
+## 7. Ant Spur Rapier
+### Key Characteristics
+- **Weapon Type**: Thrusting Sword
+- **Attack Style**: Standard thrusts with unique status effects.
+- **Damage Type**: Physical
+- **Weight**: 3.0 (Lightweight)
+- **Attributes Required**: Strength and Dexterity
+
+### Strengths
+- Can apply Scarlet rot poison and bleed buildup simultaneously.
+- Works with different build strategies for hybrid styles.
+
+### Weaknesses
+- Lower overall attack rating compared to other rapiers.
+- Short range limits attack opportunities.
+
+### Recommended Builds/Playstyles
+- Best in a dual-wield setup to maximize status effect application.
+- Can be combined with weapons that deal higher damage output if bleed immunity is a concern.
+
+---
+
+This structured breakdown highlights the versatility and potential playstyles involving thrusting swords in Elden Ring, providing insights for players looking to refine their builds.
+
+================================================================================
+
+Title: Straight Swords are the Best Weapon in Elden Ring - Elden Ring All Straight Swords Breakdown
+# Elden Ring Straight Swords Equipment Guide
+
+## 1. Lazuli Glenstone Sword
+- **Key Characteristics:**
+  - Weight: 3.5
+  - Requires Strength, Dexterity, and Intelligence.
+  - R2 attack that blocks incoming attacks before striking.
+  - Deals both Physical and Magic damage.
+  - Decent weapon skill: Glenstone pebble.
+
+- **Strengths:**
+  - High attack rating for a straight sword.
+  - Good for quick strikes and block counters.
+  - Scales well with both Strength and Intelligence.
+
+- **Weaknesses:**
+  - Short reach and terrible protection.
+  - R2 block is less effective due to low guard boost.
+
+- **Recommended Builds:**
+  - Dual-wielding for higher attack rating.
+  - Spellblade build focusing on Intelligence scaling.
+
+## 2. Carrion Knight Sword
+- **Key Characteristics:**
+  - Weight: 4
+  - Requires Strength, Dexterity, and Intelligence.
+  - Similar R2 attack with blocking functionality and deals Physical and Magic damage.
+  - Has an exceptional attack rating at minimum stats.
+
+- **Strengths:**
+  - Outperforms the Lazuli Glenstone Sword in attack rating.
+  - High attack rating for low-level play.
+
+- **Weaknesses:**
+  - Carrion Grandeur weapon skill offers less damage.
+
+- **Recommended Builds:**
+  - Block counter build with great shield.
+  - Spellblade build, albeit not optimal due to damage trade-offs.
+
+## 3. Crystal Sword
+- **Key Characteristics:**
+  - Weight: 4.5
+  - Requires Strength, Dexterity, and Intelligence.
+  - Normal R2 attack and deals both Physical and Magic damage.
+  - High attack rating and better strength scaling.
+
+- **Strengths:**
+  - High attack rating for unique straight swords.
+  - Normal R2 attack better than others.
+
+- **Weaknesses:**
+  - Average reach and ineffective weapon skill.
+
+- **Recommended Builds:**
+  - Best used in a dual-wield setup due to high damage output.
+
+## 4. Rotten Crystal Sword
+- **Key Characteristics:**
+  - Weight: 4.5
+  - Similar scaling and weapon skill as the Crystal Sword but adds Scarlet rot buildup.
+
+- **Strengths:**
+  - Adds Scarlet rot, effective in boss encounters.
+  - Decent weapon skill better for rapid attacks.
+
+- **Weaknesses:**
+  - Less attack rating than Crystal Sword.
+
+- **Recommended Builds:**
+  - Use against bosses or in PvP for pressure and rot buildup.
+
+## 5. Michelin Knight Sword
+- **Key Characteristics:**
+  - Weight: 3.5
+  - Requires Strength, Dexterity, and Faith.
+  - Unique R2 attack that lunges forward. Deals Physical and Holy damage.
+
+- **Strengths:**
+  - Great reach and damage potential.
+  - Unique attack can close distance on enemies.
+
+- **Weaknesses:**
+  - Faith scaling is poor.
+
+- **Recommended Builds:**
+  - Paladin build or spellblade with incantations.
+
+## 6. Ornamental Straight Sword
+- **Key Characteristics:**
+  - Weight: 3.0
+  - Requires Strength and Dexterity.
+  - Low attack rating but has paired attacks (with golden tempering).
+
+- **Strengths:**
+  - Effective when paired with shields; buffing capabilities.
+  - Excellent R2 attacks when combined with golden tempering.
+
+- **Weaknesses:**
+  - Low damage output.
+
+- **Recommended Builds:**
+  - First playthrough focusing on dual-wielding and shield use.
+
+## 7. Golden Epitaph
+- **Key Characteristics:**
+  - Weight: 3.5
+  - Requires Strength, Dexterity, and Faith.
+  - High attack rating; deals Physical and Holy damage.
+
+- **Strengths:**
+  - Good for builds not focusing on high Faith.
+  - Effective against Undead with Last Rites.
+
+- **Weaknesses:**
+  - Last Rites does not stack with other buffs.
+
+- **Recommended Builds:**
+  - Sword and board setup or hybrid builds with incantations.
+
+## 8. Sword of Saint Trina
+- **Key Characteristics:**
+  - Weight: 3.0
+  - Requires Strength, Dexterity, and Intelligence.
+  - Short attack reach but inflicts sleep buildup.
+
+- **Strengths:**
+  - Sleep buildup can incapacitate enemies.
+
+- **Weaknesses:**
+  - Low attack rating and reach.
+
+- **Recommended Builds:**
+  - R1 attack-focused shield build for quick sleep buildup.
+
+## 9. Regalia of Aochan
+- **Key Characteristics:**
+  - Weight: 5.5 (heaviest).
+  - Requires Strength, Dexterity, and Arcane.
+  - High attack rating, unique weapon skill (Aochan's dancing blade).
+
+- **Strengths:**
+  - High damage potential; can defeat bosses quickly.
+
+- **Weaknesses:**
+  - Heavy, thus requiring careful build planning.
+
+- **Recommended Builds:**
+  - Arcane-focused build with dragon spells.
+
+## 10. Coded Sword
+- **Key Characteristics:**
+  - Weight: 2.5 (lightest).
+  - Requires Faith; deals only Holy damage.
+
+- **Strengths:**
+  - Unblockable attacks with high incantation compatibility.
+
+- **Weaknesses:**
+  - Limited utility until late game; not effective until level requirements are met.
+
+- **Recommended Builds:**
+  - Faith-casting build with max damage boost items.
+
+## 11. Sword of Knight and Flame
+- **Key Characteristics:**
+  - Weight: 4.0
+  - Requires Strength, Dexterity, Intelligence, and Faith.
+  - High attack rating and versatile weapon skill.
+
+- **Strengths:**
+  - High damage, viable for ranged attacks.
+
+- **Weaknesses:**
+  - Poor scaling with Strength and Dexterity.
+
+- **Recommended Builds:**
+  - Spellblade focusing on Intelligence and Faith synergy.
+
+## Infusible Straight Swords
+### 12. Short Sword
+- **Key Characteristics:**
+  - Weight: 3.0
+  - Requires Strength and Dexterity; thrust attacks.
+
+- **Strengths:**
+  - Low weight and easy to acquire.
+
+- **Weaknesses:**
+  - Short reach and low damage output.
+
+- **Recommended Builds:**
+  - Dual-wield build with low equip load.
+
+### 13. Long Sword
+- **Key Characteristics:**
+  - Weight: 3.5
+  - Physical damage; thrust attacks.
+
+- **Strengths:**
+  - Direct upgrade over the Short Sword.
+
+- **Weaknesses:**
+  - Slightly higher strength requirements.
+
+- **Recommended Builds:**
+  - Good for block counter builds.
+
+### 14. Broadsword
+- **Key Characteristics:**
+  - Weight: 4.0
+  - Deals physical damage; slashing R2 attacks.
+
+- **Strengths:**
+  - High attack rating for infusible straight swords.
+
+- **Weaknesses:**
+  - Shorter reach than many alternatives.
+
+- **Recommended Builds:**
+  - Great for high-damage block counter builds.
+
+### 15. Weathered Straight Sword
+- **Key Characteristics:**
+  - Weight: 3.0
+  - Deals physical damage.
+
+- **Strengths:**
+  - Low stamina consumption for attacks.
+
+- **Weaknesses:**
+  - Low attack rating, similar to the Short Sword.
+
+- **Recommended Builds:**
+  - Focus on stamina management in dual-wield setups.
+
+### 16. Lord Sworn Straight Sword
+- **Key Characteristics:**
+  - Weight: 3.5
+  - Well-rounded physical damage sword.
+
+- **Strengths:**
+  - High critical rating; third highest attack rating among infusible swords.
+
+- **Weaknesses:**
+  - Limited effectiveness if not utilizing critical attacks.
+
+- **Recommended Builds:**
+  - Block counter setups utilizing crit advantages.
+
+### 17. Noble Slender Sword
+- **Key Characteristics:**
+  - Weight: 3.5; longest straight sword.
+
+- **Strengths:**
+  - Excellent reach and good damage output.
+
+- **Weaknesses:**
+  - Difficult to farm due to scarcity.
+
+- **Recommended Builds:**
+  - Ideal for stagger builds or extended reach attacks.
+
+### 18. Cane Sword
+- **Key Characteristics:**
+  - Weight: 2.5; low attack rating.
+
+- **Strengths:**
+  - Low weight and easy to infuse.
+
+- **Weaknesses:**
+  - Very limited usage in late-game.
+
+- **Recommended Builds:**
+  - Dual-wield strategies with optimal scaling.
+
+### 19. Warhawk’s Talon
+- **Key Characteristics:**
+  - Weight: 3.5; unique R2 attack.
+
+- **Strengths:**
+  - High attack rating; effective for quick combos.
+
+- **Weaknesses:**
+  - Slightly shorter reach.
+
+- **Recommended Builds:**
+  - Use in fast-paced builds with spell casting or multiple hits strategy.
+
+================================================================================
+
+Title: Greataxes are the Best Weapon in Elden Ring - Elden Ring All Greataxes Breakdown
+# Elden Ring Greataxes Equipment Guide
+
+## 1. Key Equipment Characteristics
+
+### A. Gargoyle's Black Axe
+- **Damage Type**: Physical and Holy
+- **Weight**: 8.5
+- **Requirements**: High Strength (abiding by sweet spots at 50) and Faith
+- **Damage Scaling**: High scaling with Strength and Faith, particularly powerful in the late game and New Game Plus.
+
+### B. Winged Great Horn
+- **Damage Type**: Physical
+- **Weight**: 11
+- **Requirements**: High Strength, some Dexterity
+- **Weapon Skill**: Soul Stifler (debuffs enemies)
+
+### C. Axe of Godrick
+- **Damage Type**: Physical
+- **Weight**: 11
+- **Requirements**: High Strength, Dexterity
+- **Unique Attack**: AOE sweep attack (R2)
+
+### D. Great Axe
+- **Damage Type**: Physical
+- **Weight**: 13
+- **Requirements**: High Strength, low Dexterity
+- **Base Damage**: Highest among all Great Weapons
+
+### E. Crescent Moon Axe
+- **Damage Type**: Physical
+- **Weight**: 12.5
+- **Requirements**: High Strength, some Dexterity
+- **Unique Ability**: Sweeping AOE attacks
+
+### F. Long Haft Axe
+- **Damage Type**: Physical
+- **Weight**: 12.5
+- **Requirements**: High Strength, some Dexterity
+- **Characteristics**: Longer than Crescent Moon Axe but less special attacks.
+
+### G. Executioner's Greataxe
+- **Damage Type**: Physical
+- **Weight**: 15
+- **Requirements**: High Strength, some Dexterity
+- **Critical Damage**: Highest critical damage rating among great axes
+
+### H. Great Omen Killer Cleaver
+- **Damage Type**: Physical
+- **Weight**: 11
+- **Requirements**: High Strength, some Dexterity
+- **Special**: Native bleed buildup on hit.
+
+### I. Rusted Anchor
+- **Damage Type**: Physical (Pierce damage)
+- **Weight**: 12.5
+- **Requirements**: High Strength, some Dexterity
+- **Unique Mechanic**: Deals increased damage when used as a counter.
+
+### J. Butchering Knife
+- **Damage Type**: Physical
+- **Weight**: 8.5
+- **Requirements**: Low Strength and some Dexterity
+- **Special Ability**: Restores 1% HP per hit.
+
+### K. Gargoyle's Greataxe
+- **Damage Type**: Physical
+- **Weight**: 8.5
+- **Requirements**: High Strength, some Dexterity
+- **Disadvantages**: Lowest damage among infusible greataxes and shorter reach.
+
+## 2. Strengths and Weaknesses
+
+### Strengths
+- High damage per hit (especially for Gargoyle's Black Axe and Great Axe).
+- Fast attack speed allowing for R1 chain attacks.
+- Many greataxes are infusible, enabling use of Ashes of War for custom builds.
+- Unique mechanics (like debuffs from Winged Great Horn and HP restoration from Butchering Knife).
+- Good scaling with Strength, especially in late-game situations (New Game Plus). 
+
+### Weaknesses
+- Shorter reach compared to great swords.
+- Some weapons (like Rusted Anchor and Butchering Knife) may require specific playstyles to maximize effectiveness.
+- Limited availability or accessibility (like Gargoyle's Black Axe and Great Omen Killer Cleaver).
+- Certain weapons have lower damage outputs against enemies with heavy resistance (e.g., high holy resistance towards the end of the game).
+
+## 3. Recommended Builds and Playstyles
+
+### A. Strength-Based Builds
+- **Ideal Weapons**: Great Axe, Executioner's Greataxe, Gargoyle's Black Axe.
+- **Attributes**: Focus on Strength (recommended sweet spot around 50).
+- **Playstyle**: Two-handed for maximum damage output or with Great Shield for blocking and countering.
+
+### B. Hybrid Faith and Strength Builds
+- **Ideal Weapons**: Gargoyle's Black Axe, Winged Great Horn.
+- **Attributes**: Strength and Faith (with appropriate buffs from incantations like Flame Grant Me Strength).
+- **Playstyle**: Use with claw mark seal for maximum throughput while utilizing various buffs and incantations.
+
+### C. Dual-Wield Builds
+- **Ideal Weapons**: Great Omen Killer Cleaver, Butchering Knife.
+- **Attributes**: High Strength and some Dexterity (for faster swings).
+- **Playstyle**: Focus on bleed buildup through combat and jump attacks, potentially using Life on Hit through healing effects.
+
+### D. AoE Control Builds
+- **Ideal Weapons**: Crescent Moon Axe, Axe of Godrick.
+- **Attributes**: Strength and Dexterity.
+- **Playstyle**: Use crowd control AOE attacks to deal with groups, leveraging the weapon's sweeping attacks.
+
+### E. Defensive Counter Builds
+- **Ideal Weapons**: Executioner's Greataxe, Rusted Anchor.
+- **Attributes**: High Strength and some Dexterity.
+- **Playstyle**: Focus on block-counters to maximize critical damage potential using the high critical rating from the Executioner's Greataxe.
+
+## Conclusion
+Greataxes in Elden Ring offer a diverse range of options for players looking to build around high damage per hit, unique mechanics, and various playstyles. Depending on preferred attributes and combat strategies, players can find optimal setups to tackle enemies effectively while gearing their characters for extensive engagements.
+
+================================================================================
+
+Title: Heavy Thrusting Swords are the Best Weapon in Elden Ring -  All Heavy Thrusting Swords Breakdown
+# Elden Ring Heavy Thrusting Swords Overview
+
+## 1. Bloody Hellis
+- **Key Characteristics:**
+  - Longest heavy thrusting sword.
+  - Deals physical damage.
+  - Exceptional weapon skill: Dinos Finesse (allows spinning through enemy attacks and performing devastating R2s).
+  - High native bleed buildup on hit.
+
+- **Strengths:**
+  - Excellent reach.
+  - High bleed synergy, especially with Lord of Blood's Exultation.
+  - Effective at dodging attacks with Dinos Finesse.
+  - Scales well with Arcane and Dexterity.
+
+- **Weaknesses:**
+  - Lowest attack rating of all heavy thrusting swords.
+  - High stamina cost when using Dinos Finesse.
+  - Requires significant investment in Endurance.
+
+- **Recommended Builds/Playstyles:**
+  - **Ballerina Build:** Focus on high Arcane and Dexterity attributes.
+  - Pair with Shard of Alexander and Warrior Jar Shard for increased damage.
+  - Stack stamina for frequent use of Dinos Finesse.
+
+---
+
+## 2. Dragon King's Crag Blade
+- **Key Characteristics:**
+  - Shares moveset with Bloody Hellis.
+  - Deals physical and lightning damage.
+  - Highest damage output among heavy thrusting swords.
+  - Weapon skill: Thundercloud Form (can hit from a distance and allows aerial maneuvering).
+
+- **Strengths:**
+  - High damage-to-weight ratio.
+  - Long reach and effective for dex builds.
+  - Can block and attack simultaneously.
+
+- **Weaknesses:**
+  - Split damage may be less effective against certain enemies.
+  - Limited effectiveness for hybrid spellcasting builds.
+
+- **Recommended Builds/Playstyles:**
+  - **Dexterity Build:** Focus on high Dexterity and minimal Strength.
+  - Utilize Curve Sword Talisman for boosting block counter damage.
+  - Manage FP with Carry and Filigree Crest for frequent use of Thundercloud Form.
+
+---
+
+## 3. Great Ape
+- **Key Characteristics:**
+  - Lightest heavy thrusting sword.
+  - Deals physical damage.
+  - R2 attacks have a slashing motion for hitting multiple enemies.
+
+- **Strengths:**
+  - Excellent for early-game where a heavy thrusting sword is needed.
+  - Good damage with various infusions (fire, lightning, sacred).
+  - Versatile R2 attacks for engaging multiple fast-moving targets.
+
+- **Weaknesses:**
+  - Shorter reach compared to other heavy thrusting swords.
+  - Lower damage compared to heavier options when fully infused.
+
+- **Recommended Builds/Playstyles:**
+  - **Starting Build:** Suitable for beginner players looking for a heavy thrusting sword.
+  - Use with a great shield for block counters and turtle-style play.
+  - Support synergies with talismans like Shard of Alexander and Ritual Shield Talisman.
+
+---
+
+## 4. Godskin Stitcher
+- **Key Characteristics:**
+  - Charged R2 attack that thrusts twice.
+  - Deals physical damage.
+  - High attack rating, second only to Great Ape.
+
+- **Strengths:**
+  - Good for applying status effects rapidly, especially bleed.
+  - Strong attack with solid damage output and flexibility with Ashes of War.
+
+- **Weaknesses:**
+  - Requires charged R2 to get two strikes, which can be challenging.
+  - Slightly less optimal damage compared to fully infused Great Ape.
+
+- **Recommended Builds/Playstyles:**
+  - **Crimson Duelist Build:** Focus on bleed build-up using Seppuku with charge R2.
+  - Use talismans like Lord of Blood's Exultation and Millicent's Prosthesis for damage boosts.
+  - Ensure high points in relevant attributes for optimal damage output and survivability.
+
+---
+
+This guide summarizes the four heavy thrusting swords in *Elden Ring*, their strengths and weaknesses, and provides recommendations for effective builds to utilize each weapon to its fullest potential.
+
+================================================================================
+
+Title: Colossal Swords are the Best Weapon in Elden Ring - Elden Ring All Colossal Swords Breakdown
+# Elden Ring Colossal Swords Equipment Guide
+
+## 1. Troll Knight Sword
+- **Key Characteristics**:
+  - Weight: 18
+  - Damage: Physical and Magic
+  - Weapon Skill: Troll's Roar (shout and strike damage)
+  - Unique R2 thrust similar to the Zweihander.
+
+- **Strengths**:
+  - Decent damage and effective against multiple enemy types due to R2 thrust.
+  - Can stagger enemies effectively.
+  - Good scaling with Strength and Dexterity.
+
+- **Weaknesses**:
+  - Shorter range compared to other colossal swords.
+  - Weapon skill doesn't utilize magic damage effectively.
+  
+- **Recommended Build**: 
+  - Strength and Dexterity focus around 50 each for balance.
+  - Lean into weapon skill for staggering enemies and follow up with critical attacks.
+  - Consider using the Roar Medallion for boosted damage.
+
+---
+
+## 2. Royal Greatsword
+- **Key Characteristics**:
+  - Weight: 20
+  - Damage: Physical and Magic
+  - Weapon Skill: Wolf's Assault (high single-target damage and AOE attack).
+
+- **Strengths**:
+  - High attack rating for a unique colossal sword.
+  - Effective weapon skill capable of one-shotting or nearly killing tough enemies.
+
+- **Weaknesses**:
+  - Acquired late in the game (requires Ranni's questline).
+  - Initial strikes can be hard to land against quick-moving enemies.
+
+- **Recommended Build**: 
+  - Focus on Strength and Intelligence, around 50 each.
+  - Two-hand for high melee performance or pair with spells for additional damage.
+  - Utilize Terra Magica for magic boosts.
+
+---
+
+## 3. Grafted Blade Greatsword
+- **Key Characteristics**:
+  - Weight: 21
+  - Damage: Physical
+  - Weapon Skill: Oath of Vengeance (increases all stats).
+
+- **Strengths**:
+  - High attack rating and can be found early in the game.
+  - Buffs all attributes by 5 for a limited duration.
+
+- **Weaknesses**:
+  - Poor spell synergy; cannot be buffed with spells.
+  - Shorter reach compared to other colossal swords.
+
+- **Recommended Build**: 
+  - Focus on Strength, aiming for about 50.
+  - Buff with Oath of Vengeance and use Flame, Grant Me Strength for boss fights.
+
+---
+
+## 4. Rune's Greatsword
+- **Key Characteristics**:
+  - Weight: 23
+  - Damage: Physical and Magic
+  - Weapon Skill: Wave of Destruction (gravity-based wave attack).
+
+- **Strengths**:
+  - High attack rating and decent resistances.
+  - Good guard boost and a solid weapon skill that staggers enemies.
+
+- **Weaknesses**:
+  - Shorter length and almost no intelligence scaling.
+  
+- **Recommended Build**: 
+  - Strength focus around 50 or more.
+  - Utilize Wave of Destruction with FP management techniques (e.g., using the sacrificial axe).
+
+---
+
+## 5. Starscourge Greatsword
+- **Key Characteristics**:
+  - Weight: 20
+  - Damage: Physical and Magic
+  - Weapon Skill: Starcaller Cry (long-range shout).
+
+- **Strengths**:
+  - Additional damage against gravity-type enemies.
+  - Versatile for dual-wielding thanks to low weight for a colossal sword.
+
+- **Weaknesses**:
+  - High FP cost for weapon skill.
+
+- **Recommended Build**: 
+  - Focus on Strength (around 50) and suitable Dexterity scaling.
+  - Prioritize dual-wielding for maximizing weapon skill usage.
+
+---
+
+## 6. Godslayer’s Greatsword
+- **Key Characteristics**: 
+  - Weight: 17.5
+  - Damage: Physical and Fire
+  - Weapon Skill: Queen's Black Flame (applies fire damage over time).
+
+- **Strengths**:
+  - Lightweight and relatively fast for a colossal sword.
+  - The ability to inflict status effects with weapon skill.
+
+- **Weaknesses**:
+  - Low overall damage compared to other unique colossal swords.
+  
+- **Recommended Build**: 
+  - Focus on Dexterity and minimal Faith (keep Faith around 25).
+  - Use alongside incantations for boosts during tough fights.
+
+---
+
+## 7. Malacath’s Blackblade
+- **Key Characteristics**:
+  - Weight: 22
+  - Damage: Physical and Holy
+  - Weapon Skill: Destined Death (removes max HP from targets).
+
+- **Strengths**:
+  - High attack rating and one of the longer colossal swords.
+  - Effective weapon skill for chip damage over time.
+
+- **Weaknesses**:
+  - Holy damage is resisted by many bosses.
+  - Acquired late in the game.
+
+- **Recommended Build**: 
+  - Focus on Strength (50) with some investment in Faith.
+  - Consider pairing with blade incantations for stacking damage effects.
+
+---
+
+## 8. Zweihander
+- **Key Characteristics**:
+  - Weight: 15.5
+  - Damage: Physical
+  - Unique R2 thrust attack.
+
+- **Strengths**:
+  - Lightest colossal sword; allows for medium rolling early on.
+  - Great range and can be found very early in the game.
+
+- **Weaknesses**:
+  - Lower overall attack rating compared to other colossal swords.
+
+- **Recommended Build**: 
+  - Suitable for early-game colossal sword builds with focus on Strength and Dexterity.
+  - Utilize weapon skills like Stamp Uppercut frequently.
+
+---
+
+## 9. Greatsword
+- **Key Characteristics**:
+  - Weight: 23 
+  - Damage: Physical
+  - Unique slashing R2 attack.
+
+- **Strengths**:
+  - Best-in-class attack rating among infusable colossal swords.
+  - Longest reach and high guard boost.
+
+- **Weaknesses**:
+  - Hefty weight may restrict early game builds.
+
+- **Recommended Build**: 
+  - Prioritize Strength with appropriate infusions to maximize damage output.
+  - Utilize Greatshield Talisman for improved guard boost.
+
+---
+
+## 10. Watchdog's Greatsword
+- **Key Characteristics**:
+  - Weight: 22
+  - Damage: Physical
+  - Standard greatsword attack pattern.
+
+- **Strengths**:
+  - High damage output (just below Greatsword).
+  - Can incorporate various status effects via infusions.
+
+- **Weaknesses**:
+  - Late game acquisition reduces its utility.
+  
+- **Recommended Build**: 
+  - Play similar to Greatsword builds but favor builds that engage later game content.
+
+---
+
+## 11. Troll's Golden Sword
+- **Key Characteristics**:
+  - Weight: 19
+  - Damage: Physical
+  - Standard colossal sword attacks.
+
+- **Strengths**:
+  - Stronger with Troll's Roar compared to other swords.
+
+- **Weaknesses**:
+  - Damage output is generally low compared to other colossal swords available.
+
+- **Recommended Build**: 
+  - Focus on using Troll's Roar strategically to stagger enemies.
+  - Great synergy with critical attack talismans.
+
+---
+
+This organized overview provides a detailed analysis of the colossal swords available in Elden Ring, their strengths, weaknesses, and the recommended playstyles for optimal use.
+
+================================================================================
+
+Title: Curved Greatswords are the Best Weapon in Elden Ring - Elden Ring All Curved Greatswords Breakdown
+# Elden Ring Curved Greatswords Equipment Guide
+
+## 1. Bloodhound's Fang
+- **Key Characteristics:**
+  - Shares default attack of most curved greatswords
+  - Deals physical damage
+  - Weight: 11.5
+  - Requires points in Strength and Dexterity (optimal at 45 Strength and 55 Dexterity)
+  - Inflicts bleed buildup natively
+  - Unique weapon skill: Bloodhound's Finesse
+
+- **Strengths:**
+  - High jump attack damage
+  - Can be obtained early in the game (defeating Bloodhound Knight Darriwil)
+  - If aimes with iframes (invulnerability frames) in animations
+  - Great scaling potential up to 80 Dexterity
+
+- **Weaknesses:**
+  - Less effective in triggering bleed due to high damage output
+  - Requires stamina management
+
+- **Recommended Builds:**
+  - Bloodhound build focusing on weapon skill and jump attacks.
+  - Talismans: Raptor’s Black Feathers, Claw Talisman, Shard of Alexander, Green Turtle Talisman.
+
+---
+
+## 2. Onyx Lord's Greatsword
+- **Key Characteristics:**
+  - Shares default attack of most greatswords
+  - Deals physical and magic damage
+  - Weight: 11.5
+  - Requires points in Strength, Dexterity, and Intelligence (optimal at 50 Strength and 30 Intelligence)
+  - Unique weapon skill: Onyx Lord's Repulsion
+
+- **Strengths:**
+  - Increased damage to gravity-based enemies
+  - AOE damage with weapon skill
+  - Can hit multiple enemies at once, effective for crowd control
+
+- **Weaknesses:**
+  - Short range for block counters
+  - Limited scaling with Intelligence above 50
+
+- **Recommended Builds:**
+  - Two-handed build with emphasis on weapon skill damage.
+  - Talismans: Shard of Alexander, Warrior Jar Shard, Magic Scorpion Charm. Use FP management tools like Carrion Filigree Crest.
+
+---
+
+## 3. Zamor Curved Sword
+- **Key Characteristics:**
+  - Unique R1 chain for increased damage
+  - Deals physical damage
+  - Weight: 9
+  - Requires points in Strength and Dexterity (optimal at 45 Strength and 55 Dexterity)
+  - Unique weapon skill: Zamor Ice Storm
+
+- **Strengths:**
+  - Frostbite buildup natively
+  - Spinning R1 chain increases damage multiplier
+
+- **Weaknesses:**
+  - Lower base damage compared to other curved greatswords
+  - Max damage on fourth strike without consistent R1 hits
+
+- **Recommended Builds:**
+  - Two-handed weapon focusing on weapon skill for crowd control and frostbite buildup.
+  - Talismans: Shard of Alexander, Magic Scorpion Charm, boost weapon skill damage with additional buffs.
+
+---
+
+## 4. Magma Wyrm's Scale Sword
+- **Key Characteristics:**
+  - Unique R2 attack
+  - Deals physical and fire damage
+  - Weight: 15
+  - Requires points in Strength, Dexterity, and Faith (optimal at 55 Strength and 50 Faith)
+  - Unique weapon skill: Magma Guillotine
+
+- **Strengths:**
+  - Very high attack rating
+  - Can often one-shot bosses with skill
+  - Hard to interrupt while using its weapon skill
+
+- **Weaknesses:**
+  - Heavy weight limits mobility
+  - High stamina requirements for repeated use of weapon skill
+
+- **Recommended Builds:**
+  - Drake Knight build that maximizes weapon skill power.
+  - Talismans: Shard of Alexander, Fire Scorpion Charm, use buffs like Flame Grant Me Strength and Golden Vow.
+
+---
+
+## 5. Margot's Curse Sword
+- **Key Characteristics:**
+  - Shares default attack of most curved greatswords
+  - Deals physical damage
+  - Weight: 7.5 (lightest curved greatsword)
+  - Requires points in Strength, Arcane, and Dexterity (optimal at 50 Dexterity and 50 Arcane)
+  - Unique weapon skill: Chris Bloodslice
+
+- **Strengths:**
+  - Highest critical multiplier among curved greatswords
+  - Fire damage addition via weapon skill
+
+- **Weaknesses:**
+  - Lower attack rating
+  - Hard to acquire (after defeating Margot)
+
+- **Recommended Builds:**
+  - Hybrid build incorporating Arcane and Dexterity for damage and bleed buildup.
+  - Talismans: Ritual Shield Talisman, Fire Scorpion Charm, Shard of Alexander.
+
+---
+
+## 6. Dismounter
+- **Key Characteristics:**
+  - Shares the default attack of most curved greatswords
+  - Deals physical damage
+  - Weight: 10
+  - Requires points in Strength and Dexterity
+  - Second longest curved greatsword
+
+- **Strengths:**
+  - Light weight
+  - Good early game weapon (farmable)
+
+- **Weaknesses:**
+  - Outperformed by other options like the Omen Cleaver.
+
+- **Recommended Builds:**
+  - One-handed build or dual-wield setups for balance.
+  - Possible use with a shield to support block counters.
+
+---
+
+## 7. Omen Cleaver
+- **Key Characteristics:**
+  - Shares unique R2 attack with Magma Wyrm’s Scale Sword
+  - Deals physical damage
+  - Weight: 11.5
+  - Requires points in Strength and Dexterity
+
+- **Strengths:**
+  - Strong early game curved greatsword
+  - Higher attack rating compared to most
+
+- **Weaknesses:**
+  - R2 attack has short range.
+
+- **Recommended Builds:**
+  - Dual-wielding setup or two-handed with focus on jump attacks.
+  - Talismans: Use stronger Ashes of War like Sword Dance.
+
+---
+
+## 8. Monk's Flame Blade
+- **Key Characteristics:**
+  - Shares default attack of most curved greatswords
+  - Deals physical damage
+  - Weight: 9
+  - Requires points in Strength and Dexterity
+
+- **Strengths:**
+  - Unique aesthetic appeal
+
+- **Weaknesses:**
+  - Lowest attack rating of infusible curved greatswords
+  - Hard to farm.
+
+- **Recommended Builds:**
+  - Pair with other weapons for frostbite and bleed setups.
+
+---
+
+## 9. Beastman's Cleaver
+- **Key Characteristics:**
+  - Shares the default attack of most greatswords
+  - Deals physical damage
+  - Weight: 16.5 (heaviest curved greatsword)
+  - Requires high Strength and some Dexterity
+
+- **Strengths:**
+  - Highest damage potential for curved greatswords
+  - Exceptional guard boost
+
+- **Weaknesses:**
+  - Second shortest reach among curved greatswords
+
+- **Recommended Builds:**
+  - Block counter and jump attack build due to its weight.
+  - Consider dual-wield for added pressure with weapon skills like Wild Strikes or Sword Dance.
+
+---
+
+This structured overview of the curved greatswords in Elden Ring should aid players in selecting the weapon best suited to their desired playstyle, ensuring they make informed decisions for their builds.
+
+================================================================================
+
+Title: Spears are the Best Weapon in Elden Ring - Elden Ring All Spears Breakdown
+# Elden Ring Spears Equipment Guide
+
+## 1. General Pros and Cons of Spears
+### Pros:
+- Long reach allows players to hit enemies from a safe distance.
+- Capable of dealing significant counter damage during enemy attack animations.
+- Can block and attack simultaneously with a shield equipped.
+- Fast dual-wielding attack animations.
+
+### Cons:
+- Almost exclusively thrust damage can be a disadvantage against thrust-resistant enemies.
+- Smaller hitboxes limit effectiveness against agile targets.
+- Limited options if enemies resist thrust damage.
+
+---
+
+## 2. Unique Spears
+
+### 2.1 Torch Pole
+- **Weight:** 6
+- **Damage Type:** Physical and Fire
+- **Strengths:**
+  - Long reach.
+  - Provides light in dark areas.
+  - Good for block-counter setups.
+- **Weaknesses:** 
+  - Abysmal base damage.
+  - Doesn’t scale well beyond early game.
+- **Recommended Build:** Dual-wield with a similar length spear or use a great shield for block-counter damage boosting.
+
+### 2.2 Inquisitor's Durandal
+- **Weight:** 7.5
+- **Damage Type:** Physical and Fire
+- **Strengths:**
+  - Mundane damage output.
+  - Moderate scaling with Faith.
+- **Weaknesses:** 
+  - Short length compared to other spears.
+  - Difficult acquisition.
+- **Recommended Build:** Dual-wield with another spear to enhance attack damage or utilize block-counter style with incantations.
+
+### 2.3 Crystal Spear
+- **Weight:** 5.5
+- **Damage Type:** Physical and Magic
+- **Strengths:**
+  - Good scaling with Dexterity.
+  - Impaling Thrust weapon skill provides excellent stance damage.
+- **Weaknesses:** 
+  - Lacks standout features, average in all aspects.
+- **Recommended Build:** Pair with another spear for dual-wield styles or use a shield for block-countering tactics.
+
+### 2.4 Rotten Crystal Spear
+- **Weight:** 5.5
+- **Damage Type:** Physical and Magic
+- **Strengths:**
+  - Inflicts Scarlet Rot on hit.
+  - Same scaling and requirements as the Crystal Spear.
+- **Weaknesses:** 
+  - Lower damage than Crystal Spear.
+  - Late game acquisition.
+- **Recommended Build:** Dual-wield for rapid Scarlet Rot application or use for bleed setups.
+
+### 2.5 Cleanrot Spear
+- **Weight:** 5.5
+- **Damage Type:** Physical and Holy
+- **Strengths:**
+  - Effective R2 attack for triggering talismans.
+  - Good immunity boost against status ailments.
+- **Weaknesses:** 
+  - Many bosses resist holy damage.
+- **Recommended Build:** Best with a great shield for block-counters, minimal focus on Faith.
+
+### 2.6 Death Ritual Spear
+- **Weight:** 6.5
+- **Damage Type:** Physical and Magic
+- **Strengths:**
+  - High attack and critical rating.
+  - Slashing R2 allows for versatility.
+- **Weaknesses:** 
+  - Late game availability.
+- **Recommended Build:** Lean into Intelligence for magic damage or Dexterity for critical attacks; supports both builds well.
+
+### 2.7 Bolt of Grand Sax
+- **Weight:** 8.5
+- **Damage Type:** Physical and Lightning
+- **Strengths:**
+  - Highest attack rating among unique spears.
+  - Ideal against dragons.
+- **Weaknesses:** 
+  - Heaviest spear; needs careful management of strength.
+- **Recommended Build:** Block-counter style; low FP cost tactics; use talismans for increased lightning damage.
+
+---
+
+## 3. Infusable Spears
+
+### 3.1 Short Spear
+- **Weight:** 4
+- **Damage Type:** Physical
+- **Strengths:** 
+  - Lightweight.
+  - Good for status effect builds.
+- **Weaknesses:** 
+  - Low attack rating.
+- **Recommended Build:** Use with block counter styles for increased damage from dual wielding.
+
+### 3.2 Iron Spear
+- **Weight:** 4.5
+- **Damage Type:** Physical
+- **Strengths:** 
+  - Lightweight and accessible.
+- **Weaknesses:**
+  - Very low attack rating; late acquisition.
+- **Recommended Build:** Block-countering; dual-wield for increased damage.
+
+### 3.3 Spear
+- **Weight:** 4.5
+- **Damage Type:** Physical
+- **Strengths:**
+  - Acquirable early in the game.
+- **Weaknesses:** 
+  - Second shortest spear with low damage.
+- **Recommended Build:** Similar to Iron Spear, prioritize dual-wield for faster attacks.
+
+### 3.4 Partisan
+- **Weight:** 6.5
+- **Damage Type:** Physical
+- **Strengths:** 
+  - High base damage.
+- **Weaknesses:** 
+  - Lower performance compared to Spike Spear.
+- **Recommended Build:** Use with a great shield for defensive play.
+
+### 3.5 Pike
+- **Weight:** 7.5
+- **Damage Type:** Physical
+- **Strengths:** 
+  - Longest spear in the game.
+- **Weaknesses:** 
+  - Heavier weight.
+- **Recommended Build:** Best used in a block counter style.
+
+### 3.6 Spiked Spear
+- **Weight:** 6
+- **Damage Type:** Physical
+- **Strengths:** 
+  - Natively builds up bleed damage.
+- **Weaknesses:** 
+  - Performance similar to Partisan but lacks unique advantages.
+- **Recommended Build:** Ideal for bleed builds; utilize talismans like Millicent's for boosted attacks.
+
+### 3.7 Cross Naganata
+- **Weight:** 8
+- **Damage Type:** Physical
+- **Strengths:** 
+  - High attack rating.
+  - Versatile moveset.
+- **Weaknesses:** 
+  - Heavy weight can limit builds.
+- **Recommended Build:** Great for hybrid builds; excellent compatibility with a variety of talismans.
+
+### 3.8 Clayman Sarpoon
+- **Weight:** 5.5
+- **Damage Type:** Physical and Magic
+- **Strengths:** 
+  - Exceptional attack rating.
+- **Weaknesses:** 
+  - Slightly behind Cross Naganata in terms of versatility.
+- **Recommended Build:** Best played with a magic-linked build or dual-wield.
+
+### 3.9 Celebrant's Rib Rake
+- **Weight:** 5
+- **Damage Type:** Physical
+- **Strengths:** 
+  - Provides runes on enemy damage.
+- **Weaknesses:** 
+  - Lowest attack rating of all spears; difficult to acquire.
+- **Recommended Build:** Dual-wield with another spear to maximize fast L1 attacks.
+
+---
+
+This structured guide covers unique and infusable spears from the Elden Ring game, highlighting their key features, strengths, weaknesses, and recommended playstyles, allowing players to make informed decisions on their builds.
+
+================================================================================
+
+Title: Great Spears are the Best Weapon in Elden Ring - Elden Ring All Great Spears Breakdown
+# Elden Ring Great Spears Equipment Guide
+
+## General Overview of Great Spears
+### Key Characteristics
+- Exceptional reach, allowing hits from a safe distance.
+- Deal thrust/piercing damage, which can do increased counter damage when hitting enemies in their attack animation.
+- Running attack hits multiple times and can push enemies back.
+- Dual-wielding ability enhances attack potency through rapid L2 and jump attacks.
+
+### Strengths
+- Long reach enables safe striking.
+- Thrusting attacks can achieve counter damage.
+- Block and attack simultaneously.
+- Buffing with specific talismans increases overall damage output.
+
+### Weaknesses
+- Limited to primarily thrust damage, which is resistible by certain enemies.
+- Five out of six great spears cannot be infused.
+- Some weapons are hard to find in-game.
+
+---
+
+## Unique Great Spears
+
+### 1. Tree Spear
+- **Weight**: 9.5
+- **Damage Type**: Physical and Holy
+- **Special Ability**: *Sacred Order* weapon skill buffs damage by 10% and increases damage to undead by 100%.
+- **Scaling**: Best with Dexterity (Sweet Spot: 50)
+  
+#### Strengths
+- Balanced damage types (physical and holy).
+- Buffs compatible with Faith builds.
+- Suitable for block-counter play with high attack rating.
+
+#### Weaknesses
+- Holy damage is not optimal against all bosses.
+- Requires investment in multiple attributes (Strength, Dexterity, Faith).
+
+#### Recommended Build
+- Use with a jellyfish shield for increased damage.
+- Ideal for block-counter style play, focusing on Dexterity and Faith.
+
+---
+
+### 2. Serpent Hunter
+- **Weight**: 12
+- **Damage Type**: Physical
+- **Special Ability**: Deadly weapon skill with thrust damage.
+- **Scaling**: Best with Strength (Sweet Spot: 55)
+
+#### Strengths
+- Zero stat requirements, allowing early use.
+- Versatile attacks (poking and slashing).
+- High poise makes it endure heavy hits.
+  
+#### Weaknesses
+- Long windup for weapon skill makes it hard to use against quick targets.
+
+#### Recommended Build
+- Ideal for tanky builds focusing on two-handed usage to maximize strength scaling.
+- Enhance damage with Shard of Alexander or Warrior Jar Shard for weapon skill.
+
+---
+
+### 3. Solarius Tree
+- **Weight**: 10
+- **Damage Type**: Physical and Holy
+- **Special Ability**: Charged R2 increases damage.
+- **Scaling**: Sweet Spot around 50 Strength, 50 Faith.
+
+#### Strengths
+- Strong weapon skill that can one-shot tough enemies.
+- Excellent reach and range.
+  
+#### Weaknesses
+- Acquisition requires navigating late-game areas.
+
+#### Recommended Build
+- Use with a great shield for block counters and synergizes well with other Faith builds.
+- Consider upgrading Faith and Strength to maximize skill damage.
+
+---
+
+### 4. Vike's War Spear
+- **Weight**: 8
+- **Damage Type**: Physical and Fire
+- **Special Ability**: Madness buildup for PVP.
+- **Scaling**: Sweet Spot around 50 Dexterity.
+
+#### Strengths
+- Effective in PVP due to Madness buildup.
+- Running L2 and jump attacks deal substantial damage.
+  
+#### Weaknesses
+- Less effective in PVE without taking advantage of madness.
+
+#### Recommended Build
+- Dual-wield with Tree Spear to capitalize on synergistic buffs.
+- Flexible scaling with a mix of Dexterity and Faith.
+
+---
+
+### 5. Magwin's Sacred Spear
+- **Weight**: 10
+- **Damage Type**: Physical and Fire
+- **Special Ability**: *Blood Moon Ritual* for area damage.
+- **Scaling**: Sweet Spot around 55 Arcane, 50 Strength.
+
+#### Strengths
+- Longest range among great spears.
+- Effective area damage with strong bleed buildup.
+
+#### Weaknesses
+- Requires beating Mog Lord of Blood, which may present a challenge early on.
+
+#### Recommended Build
+- Pair with a great shield for tank play or utilize two-handed for raw damage.
+- Excellent for boss fights with bleed build-up.
+
+---
+
+### 6. Lance 
+- **Weight**: 9
+- **Damage Type**: Physical
+- **Special Ability**: Not unique; can be infused.
+  
+#### Strengths
+- Only great spear that allows infusions.
+- Early game availability in Limgrave.
+
+#### Weaknesses
+- Damage output similar to unique spears, but less impactful unless infused.
+
+#### Recommended Build
+- Flexible infusion options make it compatible with various playstyles.
+- Can dual-wield or use with a great shield for counter-play.
+
+---
+
+This detailed breakdown provides insight into each great spear's characteristics, strengths and weaknesses, and optimal builds for players, enhancing decision-making for enhancing Elden Ring gameplay.
+
+================================================================================
+
+Title: Flails are the Best Weapon in Elden Ring - Elden Ring All Flails Breakdown
+# Elden Ring Flail Equipment Guide
+
+## General Pros and Cons of Flails
+### Pros:
+- High Poise damage, effective for stance breaking.
+- Decent attack speed, though not as fast as straight swords.
+- Good block counter range and Poise damage.
+- All non-unique flails have native bleed buildup on hit, beneficial in boss fights.
+
+### Cons:
+- Long wind-up for charged R2 attacks.
+- Limited selection of flail types with identical move sets.
+- Subpar dual-wield move set, lacking synchronization.
+- Non-unique spinning chain Ash of War is difficult to use with a long wind-up.
+
+---
+
+## Unique Flails
+
+### 1. Family Heads
+- **Damage Type:** Physical and Magic
+- **Weight:** 5.5
+- **Requirements:** Strength, Dexterity, Intelligence
+- **Location:** Found in Sages Cave, Altus Plateau
+- **Attack Rating:** 661 (66% physical damage)
+
+#### Strengths:
+- Damage output benefits from intelligence and dexterity.
+- Weapon skill (Familiar Ranker) does 100% magic damage, boosted by intelligence.
+- Good for mixed builds prioritizing dexterity and intelligence.
+
+#### Weaknesses:
+- Requires balancing between intelligence for weapon skill and dexterity for normal attacks.
+- Located in a less accessible area of the game.
+
+#### Recommended Build:
+- **Attributes:** Aim for around 55 dexterity, minimum points in strength and intelligence.
+- **Supplemental Gear:** Ritual Sword Talisman, Shard of Alexander, Magic Scorpion Charm to boost skill damage.
+
+---
+
+### 2. Bastard Stars
+- **Damage Type:** Physical and Magic
+- **Weight:** 5.5
+- **Requirements:** Strength, Dexterity, and high Intelligence
+- **Location:** Obtained after defeating Asel, Naturalborn of the Void
+- **Attack Rating:** 657 (66% magic damage)
+
+#### Strengths:
+- Exceptional weapon skill (Nebula) delivers high magic damage.
+- Scales well with high intelligence, making it ideal for magic-focused builds.
+
+#### Weaknesses:
+- Requires significant intelligence investment, limiting use for strength builds.
+- Accessibility later in the game can be a barrier.
+
+#### Recommended Build:
+- **Attributes:** Focus on 50 intelligence with minimum strength and dexterity.
+- **Supplemental Gear:** Kyon Fig Crest to reduce skill cost, Magic Scorpion Charm for attack boost.
+
+---
+
+## Non-Unique Flails
+
+### 3. Flail
+- **Damage Type:** Physical
+- **Weight:** 5
+- **Requirements:** Strength and Dexterity
+- **Location:** Found in Gatefront Ruins
+- **Attack Rating:** Lowest among flails, but competitive.
+
+#### Strengths:
+- Extremely early accessibility in the game.
+- Provides native bleed buildup which can be advantageous in boss fights.
+
+#### Weaknesses:
+- Lowest damage output among flails.
+- Weapon skill (Spinning Chain) is difficult to use.
+
+#### Recommended Build:
+- **Attributes:** Should aim for a balance of strength and dexterity.
+- **Infusions:** Consider swapping to Wild Strikes or Flaming Strike for versatility.
+
+---
+
+### 4. Night Rider Flail
+- **Damage Type:** Physical
+- **Weight:** 6
+- **Requirements:** Strength and high Dexterity (24)
+- **Location:** Defeated from Knights Cavalry in Weeping Peninsula
+
+#### Strengths:
+- Offers better damage compared to the regular Flail.
+- High scaling potential with dexterity.
+
+#### Weaknesses:
+- Tougher to use early on due to high dexterity requirement.
+- Weapon skill is still subpar.
+
+#### Recommended Build:
+- **Attributes:** Prioritize dexterity while maintaining minimum strength for a medium shield.
+- **Infusions:** Fire and lightning for damage output.
+
+---
+
+### 5. Chainlink Flail
+- **Damage Type:** Physical
+- **Weight:** 8
+- **Requirements:** Strength and Dexterity
+- **Location:** Dropped by Lesser Pumpkin Head enemies.
+
+#### Strengths:
+- Highest attack rating among non-unique flails.
+- Scales better with strength than other flails, lending to strong melee performance.
+
+#### Weaknesses:
+- High weight can affect mobility.
+- Requires swapping out the weapon skill for optimal use.
+
+#### Recommended Build:
+- **Attributes:** Focus on strength and a few points in dexterity.
+- **Infusions:** Fire and lightning for effectiveness, poison can also be beneficial.
+
+--- 
+
+## Conclusion
+Flails offer a unique playstyle in Elden Ring with distinct advantages and drawbacks. They are particularly effective in builds that make use of higher dexterity and strength attributes, complemented by various talismans and infused weapon skills to maximize their potential. While they may not be the top-tier choice in every scenario, players who embrace their unique characteristics can find use for flails in various builds throughout the game.
+
+================================================================================
+
+Title: Axes are the Best Weapon in Elden Ring - Elden Ring All Axes Breakdown
+# Elden Ring Axes Equipment Guide
+
+## General Pros and Cons of Axes
+### Pros:
+- **Variety of Move Sets:** Different axes have unique move sets, allowing players to find a preferred style.
+- **Early Availability:** Most axes are found in the first third of the game, enabling experimentation.
+- **Decent Attack Speed:** Faster than heavier weapons, some axes are classified as "light axes" and boast even quicker attacks.
+
+### Cons:
+- **Short Range:** Many axes have a limited reach, which can be challenging against distant enemies.
+- **Limited Status Effects:** Few axes possess built-in status effects (only one with frostbite and one with bleed).
+
+## Unique Axes
+### 1. Iceren Hatchet
+- **Weight:** 3.0
+- **Damage:** Physical + Frostbite
+- **Key Feature:** Fast attacks; lowest attack rating.
+- **Weapon Skill:** Hor Frost Stomp (100% magic damage, prone to frostbite).
+
+**Strengths:**
+- Fast attack speed.
+- Lightweight.
+- Only axe with frostbite.
+
+**Weaknesses:**
+- Low attack rating.
+
+**Build Recommendation:** 
+Use with a medium or lighter shield; prioritize dexterity (sweet spot at 55).
+
+---
+
+### 2. Ripple Blade
+- **Weight:** 4.5
+- **Damage:** Physical
+- **Key Feature:** Native Arcane scaling, synergizes with bleed and poison effects.
+- **Weapon Skill:** Wild Strikes (effective for status effects).
+
+**Strengths:**
+- Good for Arcane builds.
+- Excellent for applying blood poison.
+
+**Weaknesses:**
+- Limited scaling beyond 80 Arcane.
+
+**Build Recommendation:**
+Focus on Arcane (sweet spot around 55) and pair with dragon communion seal for incantations.
+
+---
+
+### 3. Stormhawk Axe
+- **Weight:** 5.5
+- **Damage:** Physical + Lightning
+- **Key Feature:** Highest attack rating when buffed.
+- **Weapon Skill:** Thunderstorm (adds lightning damage).
+
+**Strengths:**
+- High attack rating.
+- Long reach.
+
+**Weaknesses:**
+- High FP cost for skills.
+- Requires careful timing due to stance damage.
+
+**Build Recommendation:** 
+Prioritize strength, use with a great shield. Good for NG+ due to scaling.
+
+---
+
+### 4. Rose's Axe
+- **Weight:** 5.5
+- **Damage:** Physical + Magic
+- **Key Feature:** Longest axe and high attack rating.
+- **Weapon Skill:** Rose's Summons (high damage with windup).
+
+**Strengths:**
+- Split damage (physical/magic).
+- Good for hybrid builds.
+
+**Weaknesses:**
+- Difficult to use weapon skill effectively under pressure.
+
+**Build Recommendation:**
+Pair with spells for a hybrid build; emphasize strength for scaling.
+
+---
+
+## Non-Unique Axes
+### 5. Hand Axe
+- **Weight:** 3.5
+- **Damage:** Physical
+- **Key Feature:** Fast and early-game accessibility.
+
+**Strengths:**
+- Low requirements, quick attacks.
+- Easily purchasable.
+
+**Weaknesses:**
+- Lacks range and raw damage.
+
+**Build Recommendation:** 
+Combine with a great shield, suitable for quick combo builds.
+
+---
+
+### 6. Fork Hatchet
+- **Weight:** 2.5
+- **Damage:** Physical + Bleed
+- **Key Feature:** Lightest axe and can inflict bleed.
+
+**Strengths:**
+- Fast attacks; good for bleed builds.
+
+**Weaknesses:**
+- Short range and low attack rating.
+
+**Build Recommendation:** 
+Use with a shield; focus on bleed and cold infusions.
+
+---
+
+### 7. Battle Axe
+- **Weight:** 4.5
+- **Damage:** Physical
+- **Key Feature:** Well-rounded axe with average reach.
+
+**Strengths:**
+- Good attack rating and early-game availability.
+
+**Weaknesses:**
+- Average compared to other axes.
+
+**Build Recommendation:** 
+Effective with a great shield; utilize wild strikes for powerful scaling.
+
+---
+
+### 8. Warped Axe
+- **Weight:** 7.5
+- **Damage:** Physical
+- **Key Feature:** Highest raw damage unbuffed.
+
+**Strengths:**
+- Long reach and excellent damage output.
+
+**Weaknesses:**
+- High strength requirements.
+
+**Build Recommendation:** 
+Focus on strength scaling; pair with a great shield for defense.
+
+---
+
+### 9. Jawbone Axe
+- **Weight:** 5.5
+- **Damage:** Physical
+- **Key Feature:** Good strength scaling and availability.
+
+**Strengths:**
+- High attack rating for strength scaling.
+
+**Weaknesses:**
+- Standard range compared to others.
+
+**Build Recommendation:** 
+Play with shield/talisman for resilience; focus on physical damage.
+
+---
+
+### 10. Iron Cleaver
+- **Weight:** 6.0
+- **Damage:** Physical
+- **Key Feature:** High attack speed.
+
+**Strengths:**
+- Excellent for hybrid builds due to rapid attacks.
+
+**Weaknesses:**
+- Short range.
+
+**Build Recommendation:** 
+Mix strength and intelligence; buffs can optimize charged attacks.
+
+---
+
+### 11. Highland Axe
+- **Weight:** 4.5
+- **Damage:** Physical
+- **Key Feature:** Critical hit enhancement.
+
+**Strengths:**
+- Best for block counter builds.
+
+**Weaknesses:**
+- Average damage apart from critical hits.
+
+**Build Recommendation:** 
+Use with a shield, utilize critical hits effectively.
+
+---
+
+### 12. CBR Cleaver
+- **Weight:** 4.5
+- **Damage:** Physical
+- **Key Feature:** Decent attack and rapid attacks.
+
+**Strengths:**
+- Good for block countering.
+
+**Weaknesses:**
+- Located later in the game, short range.
+
+**Build Recommendation:**
+Utilize with a shield for tanking and damage.
+
+---
+
+### 13. Sacrificial Axe
+- **Weight:** 5.5
+- **Damage:** Physical
+- **Key Feature:** Refunds FP on enemy kill.
+
+**Strengths:**
+- Quick acquisition and decent attack.
+
+**Weaknesses:**
+- Short weapon length.
+
+**Build Recommendation:** 
+Use as a secondary weapon for FP regeneration; enhance with offensive ashes of war.
+
+--- 
+
+### Conclusion
+Axes present diverse options for various builds in Elden Ring, making them a formidable choice for melee combat. Consider incorporating them for both their speed and damage capabilities while selecting the right build to maximize their potential!
+
+================================================================================
+
+Title: Hammers are the Best Weapon in Elden Ring - Elden Ring All Hammers Breakdown
+# Elden Ring Hammer Equipment Guide
+
+## General Overview of Hammers
+### Pros:
+- High stance damage, particularly effective with block counters or charged heavy attacks.
+- More stance damage than any weapon group except colossal weapons.
+- Effective in both single-target and multi-target situations with good crowd control potential.
+
+### Cons:
+- Often shorter reach compared to other weapon types.
+- Dual wielding tends to be less effective due to unsynced attacks.
+- Limited status effects across most hammers.
+
+## Unique Hammers
+
+### 1. Varbokeh
+- **Weight**: 2
+- **Requirements**: 8 Strength, 16 Dexterity, 24 Arcane
+- **Damage Type**: Physical, good bleed buildup.
+- **Weapon Skill**: Bloodtax (not effective due to low attack rating).
+
+#### Strengths:
+- Lightest hammer; good bleed buildup.
+
+#### Weaknesses:
+- Very low attack rating and reach; hard to acquire.
+
+#### Build Recommendation:
+- Focus on Arcane and Faith, utilizing incantations for damage. Gear up with items that enhance bleed effects, such as Lord of Blood's Exaltation.
+
+---
+
+### 2. Envoy's Horn
+- **Weight**: 4
+- **Requirements**: 10 Strength, 12 Dexterity, 16 Faith
+- **Damage Type**: Physical and Holy.
+
+#### Strengths:
+- Reasonable attack rating; great for softening enemies from a range with Oracular Bubble.
+
+#### Weaknesses:
+- Lower melee damage; requires careful attribute allocation for optimal use.
+
+#### Build Recommendation:
+- Build for Faith and Strength to maximize damage with spells and melee. Use items like the Holy Shrouding Crack Tier for extra damage.
+
+---
+
+### 3. Nox Flowing Hammer
+- **Weight**: 6.5
+- **Requirements**: 17 Strength, 7 Dexterity
+- **Damage Type**: Physical.
+
+#### Strengths:
+- High attack rating; exceptional crowd control with Flowing Form.
+
+#### Weaknesses:
+- Shortest hammer; requires stamina management.
+
+#### Build Recommendation:
+- Pair with a Great Shield for block counters. Utilize Warrior Jar Shard to boost damage.
+
+---
+
+### 4. Ringed Finger
+- **Weight**: 4.5
+- **Requirements**: 15 Strength, 9 Dexterity
+- **Damage Type**: Physical.
+
+#### Strengths:
+- Long reach; claw flick weapon skill can flinch enemies.
+
+#### Weaknesses:
+- Limited scaling with Dexterity; late-game acquisition.
+
+#### Build Recommendation:
+- Focus on Strength with minimal Dexterity. Pair with spell-casting items for versatility in combat.
+
+---
+
+### 5. Scepter of All Knowing
+- **Weight**: 4.5
+- **Requirements**: 12 Strength, 18 Dexterity, 21 Intelligence
+- **Damage Type**: Physical and Magic.
+
+#### Strengths:
+- Unique thrusting attacks; good for debuffing.
+
+#### Weaknesses:
+- High FP cost for weapon skill; poor melee damage when compared to its cost.
+
+#### Build Recommendation:
+- Strive for high Dexterity for melee and pair it with casting spells for optimal efficiency.
+
+---
+
+### 6. America’s Hammer
+- **Weight**: 6
+- **Requirements**: 20 Strength, 12 Dexterity, 19 Faith
+- **Damage Type**: Physical and Holy.
+
+#### Strengths:
+- Highest attack rating among unique hammers; excellent weapon skill for stance breaking.
+
+#### Weaknesses:
+- High requirements limit build flexibility.
+
+#### Build Recommendation:
+- Invest in Strength and Faith for optimal performance. Utilize a Great Shield for block counters and synergize with buffing spells.
+
+---
+
+## Infusible Hammers
+
+### 1. Club
+- **Weight**: 5
+- **Requirements**: 10 Strength
+- **Weapon Skill**: Barbaric Roar (damage boost).
+
+#### Build Recommendation:
+- Best paired with Great Shields. Consider heavy infusions for improved scaling.
+
+---
+
+### 2. Curved Club
+- **Weight**: 5
+- **Requirements**: 11 Strength, 7 Dexterity.
+
+#### Build Recommendation:
+- Lean towards a heavy infusion. Maintain a focus on Strength for better scaling.
+
+---
+
+### 3. Spiked Club
+- **Weight**: 5
+- **Requirements**: 12 Strength, 7 Dexterity.
+
+#### Build Recommendation:
+- Consider utilizing blood infusions to take advantage of bleed effects.
+
+---
+
+### 4. Stone Club
+- **Weight**: 7
+- **Requirements**: 16 Strength, 8 Dexterity.
+
+#### Build Recommendation:
+- Fire or cold infusions recommended due to high potential attack rating.
+
+---
+
+### 5. Mace
+- **Weight**: 4.5
+- **Requirements**: 12 Strength, 7 Dexterity.
+
+#### Build Recommendation:
+- Pair with Great Shields; consider infusions that reinforce physical damage.
+
+---
+
+### 6. Morning Star
+- **Weight**: 5
+- **Requirements**: 12 Strength, 8 Dexterity.
+
+#### Build Recommendation:
+- Focus on heavy infusion to leverage bleed effects in melee combat.
+
+---
+
+### 7. Warpick
+- **Weight**: 2.5
+- **Requirements**: 11 Strength, 9 Dexterity.
+
+#### Build Recommendation:
+- Blood infusion preferred due to low attack rating; utilize great shields for defense.
+
+---
+
+### 8. The Hammer
+- **Weight**: 6.5
+- **Requirements**: 14 Strength, 7 Dexterity.
+
+#### Build Recommendation:
+- Fire or cold infusion recommended; good scaling with a focus on Strength.
+
+---
+
+### 9. Monk's Flame Mace
+- **Weight**: 6
+- **Requirements**: 13 Strength, 13 Dexterity.
+
+#### Build Recommendation:
+- Lean into Keen infusions while still using Great Shields, aiming for high attack ratings.
+
+---
+
+## Conclusion
+Hammers in Elden Ring offer a versatile and powerful weapon choice, excelling in both offensive power and defensive capabilities when combined with shields. Players should consider investing in appropriate attributes to maximize the efficiency and impact of each unique hammer tailored to their playstyle.
+
+================================================================================
+
+Title: GREAT HAMMERS are the BEST Weapon in Elden Ring - Elden Ring ALL Great Hammers Breakdown
+## Equipment Summary from Elden Ring Great Hammers Guide
+
+### 1. Envoy Longhorn
+- **Type**: Unique Great Hammer
+- **Damage Type**: Physical and Holy
+- **Weight**: 9.5
+- **Requirements**: 22 Strength, 11 Dexterity, 18 Faith
+- **Weapon Skill**: Bubble Shower
+- **Key Characteristics**: Long reach, deals high stance damage (902 if all bubbles hit).
+
+**Strengths**:
+- High stance damage.
+- Effective for boss encounters.
+- Synergistic with holy damage buffs.
+
+**Weaknesses**:
+- Acquired late game.
+- Long windup and short range for skill use.
+
+**Recommended Build**:
+- **Attributes**: Aim for around 50 Strength, 50 Faith.
+- **Playstyle**: Two-hand the weapon; use with claw mark seal for casting incantations and buffing.
+
+---
+
+### 2. Cranial Vessel Candlestick
+- **Type**: Unique Great Hammer
+- **Damage Type**: Physical and Fire
+- **Weight**: 12.5
+- **Requirements**: 26 Strength, 8 Dexterity, 22 Faith
+- **Weapon Skill**: Surge of Faith
+- **Key Characteristics**: High attack rating and good area of effect (AOE) damage.
+
+**Strengths**:
+- Excellent damage output.
+- AOE capability with fire damage.
+
+**Weaknesses**:
+- Acquired late in the game.
+- Weight makes it cumbersome for low-endurance builds.
+
+**Recommended Build**:
+- **Attributes**: 50 Strength and Faith.
+- **Playstyle**: Two-handed usage, focus on stamina management and buffing, potentially with flame grants.
+
+---
+
+### 3. Beast Claw Great Hammer
+- **Type**: Unique Great Hammer
+- **Damage Type**: Physical and Holy
+- **Weight**: 9.0
+- **Requirements**: 20 Strength, 10 Dexterity, 18 Faith
+- **Weapon Skill**: Regal Beast Claw
+- **Key Characteristics**: Cone-shaped AOE damage, easy to hit target.
+
+**Strengths**:
+- Low weight allows for versatility.
+- All three stats (Strength, Dexterity, Faith) boost damage.
+
+**Weaknesses**:
+- Modest damage output compared to heavier options.
+
+**Recommended Build**:
+- **Attributes**: 50 Strength, 50 Dexterity, and boost Faith to 25 for buffs.
+- **Playstyle**: Two-hand and use buffs from a sacred seal.
+
+---
+
+### 4. Devour Scepter
+- **Type**: Unique Great Hammer
+- **Damage Type**: Physical and Fire
+- **Weight**: 11.5
+- **Requirements**: 24 Strength, 20 Dexterity, 25 Faith
+- **Weapon Skill**: Devour of Worlds
+- **Key Characteristics**: High healing potential on hits.
+
+**Strengths**:
+- Healing per hit can enhance survivability.
+
+**Weaknesses**:
+- Heavy and high FP cost for weapon skill.
+- Poor damage output.
+
+**Recommended Build**:
+- **Attributes**: 50 Strength, minimal Faith for buffs.
+- **Playstyle**: Two-handed or with a great shield for better defense.
+
+---
+
+### 5. Large Club
+- **Type**: Infusible Great Hammer
+- **Damage Type**: Physical
+- **Weight**: 8.5
+- **Requirements**: 22 Strength
+- **Weapon Skill**: Barbaric Roar
+- **Key Characteristics**: Early acquisition in the game.
+
+**Strengths**:
+- Easy to obtain early on.
+- Good for players new to great hammers.
+
+**Weaknesses**:
+- Lower attack rating compared to heavier options.
+
+**Recommended Build**:
+- **Attributes**: Focus on Strength, consider infusions for scaling.
+- **Playstyle**: Two-handed with buff spells, jump attacks for effectiveness.
+
+---
+
+### 6. Curved Great Club
+- **Type**: Infusible Great Hammer
+- **Damage Type**: Physical
+- **Weight**: 10.0
+- **Requirements**: 24 Strength, 10 Dexterity
+- **Weapon Skill**: Barbaric Roar
+- **Key Characteristics**: High attack rating for infusible options.
+
+**Strengths**:
+- High versatility and damage potential.
+- Can be infused for different builds.
+
+**Weaknesses**:
+- Average weight.
+
+**Recommended Build**:
+- **Attributes**: High Strength with some Dexterity.
+- **Playstyle**: Focus on strong infusions like fire or lightning for enhanced performance.
+
+---
+
+### 7. Great Mace
+- **Type**: Infusible Great Hammer
+- **Damage Type**: Physical
+- **Weight**: 11.5
+- **Requirements**: 28 Strength
+- **Weapon Skill**: Endure
+- **Key Characteristics**: High attack rating and scaling.
+
+**Strengths**:
+- Great balance of power and scaling.
+
+**Weaknesses**:
+- Considered heavy for early game.
+
+**Recommended Build**:
+- **Attributes**: Emphasis on Strength.
+- **Playstyle**: Two-handed, pairing with good Ashes of War.
+
+---
+
+### 8. Battle Hammer
+- **Type**: Infusible Great Hammer
+- **Damage Type**: Physical
+- **Weight**: 10.0
+- **Requirements**: 26 Strength, 8 Dexterity
+- **Weapon Skill**: Brager's Roar
+- **Key Characteristics**: Solid attack rating.
+
+**Strengths**:
+- Good damage output; viable for mid-game encounters.
+
+**Weaknesses**:
+- Shortest great hammer.
+
+**Recommended Build**:
+- **Attributes**: Focus on Strength; include Dexterity for versatility.
+- **Playstyle**: Two-handed, leveraging the weapon skill effectively.
+
+---
+
+### 9. Great Stars
+- **Type**: Unique Great Hammer
+- **Damage Type**: Physical
+- **Weight**: 10.0
+- **Requirements**: 22 Strength, 12 Dexterity
+- **Key Characteristics**: Native bleed buildup and self-healing per hit.
+
+**Strengths**:
+- Unique healing mechanic and bleed buildup potential.
+
+**Weaknesses**:
+- Mid-range damage output and slower than some alternatives.
+
+**Recommended Build**:
+- **Attributes**: Blend of Strength, Dexterity, and some Faith for buffs.
+- **Playstyle**: Use with bleed-focused tactics; can include healing gear.
+
+---
+
+### 10. Great Horn Hammer
+- **Type**: Unique Great Hammer
+- **Damage Type**: Physical
+- **Weight**: 10.0
+- **Requirements**: 22 Strength, 10 Dexterity
+- **Key Characteristics**: Healing mechanic per kill.
+
+**Strengths**:
+- Provides 3% max HP healing upon kills.
+
+**Weaknesses**:
+- Average length and damage compared to stronger options.
+
+**Recommended Build**:
+- **Attributes**: Strong focus on Strength, with potential for Magic infusion.
+- **Playstyle**: Use in conjunction with high melee damage and spells to maximize healing.
+
+--- 
+
+This structured breakdown serves as a comprehensive guide to the various great hammers in Elden Ring, highlighting their unique attributes, strengths, and the builds that best complement each weapon's capabilities.
+
+================================================================================
+
+Title: Daggers are the Best Weapon in Elden Ring - Elden Ring All Daggers Breakdown
+# Elden Ring Daggers Equipment Guide
+
+## General Overview of Daggers
+- **Pros:**
+  - Very fast attack speed, especially effective when dual-wielding.
+  - High critical rating, allowing for increased critical damage (most have a rating of 100 or higher).
+  - Extremely lightweight, allowing for easy management of equip weight.
+
+- **Cons:**
+  - Lower attack rating compared to other weapon types.
+  - Limited effectiveness at applying status effects after recent nerfs to dual-wielding.
+  - Extremely short reach which can lead to missed attacks.
+
+---
+
+## Unique Daggers
+
+### 1. **Scorpion's Stinger**
+- **Weight:** 2.5
+- **Requirements:** 6 Strength, 12 Dexterity
+- **Characteristics:** Scarlet rot buildup, deals slash or thrust damage.
+- **Strengths:**
+  - Unique R2 attack for thrusting heavy attacks.
+  - Effective for applying Scarlet rot due to fast attack speed.
+- **Weaknesses:**
+  - Needs close range to be effective due to general short range of daggers.
+- **Recommended Build:** Use as a means to set Scarlet rot; can be paired with the Jellyfish Shield for attack power boost.
+
+---
+
+### 2. **The Cadia**
+- **Weight:** 3.5
+- **Requirements:** 10 Strength, 10 Dexterity
+- **Characteristics:** Buffs beastial incantations by 10%.
+- **Strengths:**
+  - High attack rating for a dagger.
+  - Quick access, found outside Beastial Sanctum.
+- **Weaknesses:**
+  - Lower critical rating than most daggers (100).
+  - Scaling requires investment into Strength and Faith for optimal use.
+- **Recommended Build:** Use in a beastial incantation build or dual-wield for high damage.
+
+---
+
+### 3. **Glenstone Cris**
+- **Weight:** 1.5
+- **Requirements:** 5 Strength, 12 Dexterity, 16 Intelligence
+- **Characteristics:** Magic and physical damage; unique projectile attack (Glenstone Dart).
+- **Strengths:**
+  - Effective ranged option with increased damage via charged attacks.
+  - High mobility with the ability to pierce enemies.
+- **Weaknesses:**
+  - Limited availability late-game.
+- **Recommended Build:** Use in dual-wield setups, paired with an intelligence scaling dagger like the Crystal Knife.
+
+---
+
+### 4. **Ruvia**
+- **Weight:** 2.5
+- **Requirements:** 5 Strength, 13 Dexterity, 13 Arcane
+- **Characteristics:** Excellent for Hemorrhage status effect.
+- **Strengths:**
+  - Early game availability and easy to achieve bleed buildup.
+  - Exceptional weapon skill for Hemorrhage at range.
+- **Weaknesses:**
+  - Generally lower attack rating than other unique daggers.
+- **Recommended Build:** Pair with Dragon Communion Seal for spells; use buffs like Lord of Blood's Exaltation for enhanced damage.
+
+---
+
+### 5. **Blade of Calling**
+- **Weight:** 1.5
+- **Requirements:** 6 Strength, 13 Dexterity, 15 Faith
+- **Characteristics:** Holy damage and rapid dual heavy attacks.
+- **Strengths:**
+  - Lightweight with solid damage and utility.
+  - Long reach for dagger.
+- **Weaknesses:**
+  - Ineffective against many end-game bosses due to high holy resist.
+- **Recommended Build:** High Faith build; use alongside incantation casting with good buffs.
+
+---
+
+### 6. **Black Knife**
+- **Weight:** 2
+- **Requirements:** 8 Strength, 12 Dexterity, 18 Faith
+- **Characteristics:** Highest attack rating of unique daggers; ability to rip off max HP.
+- **Strengths:**
+  - Versatile for a variety of builds; good support for both melee and spellcasting.
+- **Weaknesses:**
+  - Less overall damage compared to other unique daggers.
+- **Recommended Build:** Combine with spells such as Destined Death for HP debuffs on bosses.
+
+---
+
+## Regular Daggers
+
+### 1. **Dagger**
+- **Weight:** 1.5
+- **Requirements:** 5 Strength, 9 Dexterity
+- **Characteristics:** High critical rating; easy accessibility.
+- **Strengths:**
+  - Second highest crit rating among weapons.
+- **Weaknesses:**
+  - Short range and low attack rating.
+- **Recommended Build:** Use in crit-focused builds or Parry setups with the Dagger Talisman.
+
+---
+
+### 2. **Parrying Dagger**
+- **Weight:** 1.5
+- **Requirements:** 5 Strength, 14 Dexterity
+- **Characteristics:** Similar i-frames to small shields; excellent for parrying.
+- **Strengths:**
+  - Very effective in parry builds; lightweight.
+- **Weaknesses:**
+  - High dex requirement; short range.
+- **Recommended Build:** Parry-focused build with dual daggers for quick counterattacks.
+
+---
+
+### 3. **Misericord**
+- **Weight:** 2
+- **Requirements:** 7 Strength, 12 Dexterity
+- **Characteristics:** Longest and highest crit rating dagger.
+- **Strengths:**
+  - Maximizes critical damage potential.
+- **Weaknesses:**
+  - Lower overall damage compared to other unique daggers.
+- **Recommended Build:** Build around critical-focused gameplay and stealth mechanics.
+
+---
+
+### 4. **Great Knife**
+- **Weight:** 1.5
+- **Requirements:** 6 Strength, 12 Dexterity
+- **Characteristics:** Native bleed buildup; very low weight.
+- **Strengths:**
+  - Excellent as a bleed weapon for builds.
+- **Weaknesses:**
+  - Short in reach and attack.
+- **Recommended Build:** Focus on bleed status effects with buffs for enhanced power.
+
+---
+
+### 5. **Blood Stained Dagger**
+- **Weight:** 2
+- **Requirements:** 9 Strength, 12 Dexterity
+- **Characteristics:** Superb for strength scaling with bleed buildup.
+- **Strengths:**
+  - High attack potential and bleed buildup advantage.
+- **Weaknesses:**
+  - Shorter than other daggers; limited effectiveness without a setup.
+- **Recommended Build:** Dual-wielding or shield combinations with great shield for extra defense.
+
+---
+
+### 6. **Er Steel Dagger**
+- **Weight:** 2
+- **Requirements:** 7 Strength, 12 Dexterity, 15 Faith
+- **Characteristics:** First Faith scaling weapon, buffable.
+- **Strengths:**
+  - Highest attack rating with sacred/flame art infusions.
+- **Weaknesses:**
+  - Lowest overall attack unless properly set up.
+- **Recommended Build:** Dual wield with heavy investment in Faith for substantial damage.
+
+---
+
+### 7. **Waki Zashi**
+- **Weight:** 3
+- **Requirements:** 9 Strength, 13 Dexterity
+- **Characteristics:** Heavy dagger, high attack rating, native bleed.
+- **Strengths:**
+  - Best damage capability but limited mobility.
+- **Weaknesses:**
+  - Cannot be paired with other daggers; limited versatility.
+- **Recommended Build:** Use with katanas for bleed and power stance.
+
+---
+
+### 8. **Celebrant Sickle**
+- **Weight:** 1.5
+- **Requirements:** 6 Strength, 11 Dexterity
+- **Characteristics:** Grants runes per hit, lightweight.
+- **Strengths:**
+  - Early acquisition; good for farming runes.
+- **Weaknesses:**
+  - Lacks strong overall utility and damage.
+- **Recommended Build:** Use in conjunction with rune farming strategies.
+
+---
+
+### 9. **Ivory Sickle**
+- **Weight:** 2
+- **Requirements:** 6 Strength, 11 Dexterity, 13 Intelligence
+- **Characteristics:** Physical and magic damage, long range.
+- **Strengths:**
+  - Early access; versatile with 50/50 split damage types.
+- **Weaknesses:**
+  - Not buffable or infusable; mediocre critical rating.
+- **Recommended Build:** Offhand option in dual-wield builds with other supportive equipment.
+
+---
+
+### 10. **Crystal Knife**
+- **Weight:** 2
+- **Requirements:** 8 Strength, 12 Dexterity, 9 Intelligence
+- **Characteristics:** High attack rating; magic and physical damage.
+- **Strengths:**
+  - Solid for new game plus setups.
+- **Weaknesses:**
+  - Short; cannot be buffed or infused.
+- **Recommended Build:** Dual-wield with the Blood Stained Dagger for maximum versatility.
+
+--- 
+
+This guide provides a structured overview of the daggers mentioned, highlighting their characteristics, strengths, weaknesses, and recommended builds suitable for players looking to optimize their gameplay in Elden Ring.
+
+================================================================================
+
+Title: Claws are the Best Weapon in Elden Ring - Elden Ring All Claws Breakdown
+# Elden Ring Claw Weapons Overview
+
+## General Characteristics of Claw Weapons
+- **Type**: Claw Weapons
+- **Attack Speed**: Extremely fast; potentially the fastest attacking weapons in the game.
+- **Dual Wielding**: Can be paired, allowing buffs to affect both weapons simultaneously.
+- **Lightweight**: Weigh between 1.5 to 3, enabling ease of movement and dodging.
+- **Crit Rating**: All claws (except one) have a 110 crit rating, making them effective for critical strikes.
+- **Status Effects**: All claws have native status effects, capable of building up effects such as bleed or poison.
+  
+### Pros
+- High attack speed
+- Lightweight; facilitates faster builds
+- Good crit rating
+- Dual-wielding capabilities enhance damage output and buffing
+
+### Cons
+- Generally low attack rating compared to other weapon types
+- Short reach compared to longer weapons
+- Low stance damage; not effective for stance breaks
+
+## Specific Claw Weapons Breakdown
+
+### 1. Hook Claws
+- **Weight**: 2
+- **Attributes Required**: 8 Strength, 14 Dexterity
+- **Damage Type**: Physical
+- **Native Status Effect**: Bleed
+
+**Strengths**:
+- Longest claws in the game
+- Early availability in Stormveil Castle
+- High bleed buildup potential
+
+**Weaknesses**:
+- Lower damage compared to Raptor Talons
+
+**Recommended Playstyle**:
+- Hybrid build utilizing spellcasting with buffs from incantations (e.g., Flame Blade), stacking attack power with talismans such as Rotten Wing Sword Insignia.
+
+---
+
+### 2. Blood Hound Claws
+- **Weight**: 3
+- **Attributes Required**: 10 Strength, 15 Dexterity
+- **Damage Type**: Physical
+- **Native Status Effect**: Bleed
+
+**Strengths**:
+- Highest attack rating among claws
+- Effective for strength-based builds
+- Damage bypasses shields
+
+**Weaknesses**:
+- Shorter reach than other claws
+- Only accessible later in the game (Volcano Manor)
+
+**Recommended Playstyle**:
+- Strength-oriented build; use heavy infusions and buffs like Blood Flame Blade to capitalize on bleed effects and attack power.
+- Incorporate talismans for damage boosts like Blood's Exaltation.
+
+---
+
+### 3. Venomous Fang
+- **Weight**: 2.5
+- **Attributes Required**: 9 Strength, 9 Dexterity
+- **Damage Type**: Physical
+- **Native Status Effect**: Deadly Poison
+
+**Strengths**:
+- Highest attack rating among all claws
+- Lowest attribute requirements
+
+**Weaknesses**:
+- Short reach very noticeable in combat
+- Lowest crit rating among claws
+
+**Recommended Playstyle**:
+- Focus on poison and bleed buildup using blood infusion for Arcane scaling.
+- Utilize defensive abilities such as "Endure" to trade hits while increasing status effects, supported by talismans like Rotten Wing Sword Insignia.
+
+---
+
+### 4. Raptor Talons
+- **Weight**: 1.5
+- **Attributes Required**: 6 Strength, 14 Dexterity
+- **Damage Type**: Physical
+- **Native Status Effect**: Bleed
+
+**Strengths**:
+- Lightest claws, enabling quick movement
+- Unique heavy attack that deals additional damage
+
+**Weaknesses**:
+- Lowest attack rating among claws
+- Limited effectiveness without a jump attack build
+
+**Recommended Playstyle**:
+- Jump attack build; utilize items like the Claw Talisman and Royal Knight’s Resolve to maximize damage during jump attacks.
+- Can pair with the sacrificial axe for FP restoration after kills.
+
+---
+
+## Conclusion
+Claws in Elden Ring are versatile and fast-paced weapons excellent for players who favor rapid attacks and dual-wielding styles. While they may lack raw damage and range compared to heavier weapons, their speed and capability to inflict status effects make them impactful in the hands of skilled players capable of leveraging buffs and tactical advantages in combat.
+
+================================================================================
+
+Title: Fists are the Best Weapon in Elden Ring - Elden Ring All Fists Breakdown
+# Elden Ring Fists Equipment Breakdown
+
+## 1. Clinging Bone
+- **Key Characteristics:**
+  - Deals physical and magic damage.
+  - Requires 8 Strength, 22 Dexterity, and 16 Arcane.
+  - One-handed charged heavy attacks are lightning fast.
+  - Life Steal Fist skill heals 30% of max HP.
+
+- **Strengths:**
+  - Excellent for lifesteal and sustain during combat.
+  - High stance damage and fast attack speed.
+  - Can be effectively used with a shield for defense.
+
+- **Weaknesses:**
+  - Heavyweight for a fist weapon.
+  - Requires specific stats that may not align well with all builds.
+
+- **Recommended Builds:**
+  - Ideal for dexterity and arcane-focused builds.
+  - Works well with talismans like Shard of Alexander and Ritual Sword Talisman to enhance healing and damage.
+
+---
+
+## 2. Veteran's Prosthesis
+- **Key Characteristics:**
+  - Deals physical and lightning damage.
+  - Heaviest fist; requires 15 Strength and 12 Dexterity.
+  - Storm Kick skill has high AoE damage potential.
+
+- **Strengths:**
+  - Long reach for a fist weapon.
+  - High attack rating and fast charged attacks.
+  - Can interrupt enemies effectively.
+
+- **Weaknesses:**
+  - Obtained late in the game (Mountaintops of the Giants).
+  - The follow-up attack of Storm Kick has a small AoE.
+
+- **Recommended Builds:**
+  - Strong with builds that focus on strength and dexterity.
+  - Works well with a great shield for quick attacks and countering.
+
+---
+
+## 3. Cipher
+- **Key Characteristics:**
+  - Deals 100% holy damage.
+  - Weighs 0 and requires 30 Faith.
+  - Unblockable Blade weapon skill; great for incantation builds.
+
+- **Strengths:**
+  - Extremely lightweight and easy to equip.
+  - Excellent for buffing holy damage with Talismans.
+  - Great stance damage.
+
+- **Weaknesses:**
+  - Limited damage scaling past 50 Faith.
+  - The weapon skill is costly in terms of FP.
+
+- **Recommended Builds:**
+  - Perfect for high-Faith incantation builds.
+  - Works well with the Heretic’s Seal for casting spells.
+
+---
+
+## 4. Grafted Dragon
+- **Key Characteristics:**
+  - Deals physical and fire damage.
+  - Average weight (2.5) with high requirements (20 Strength, 14 Dexterity, 16 Faith).
+  - Weapon skill Bear Witness provides an AoE fire attack.
+
+- **Strengths:**
+  - High damage versus dragons.
+  - Quick charged attacks and stance breaking potential.
+  - Fire damage scales well with certain buffs.
+
+- **Weaknesses:**
+  - Cannot be dual-wielded unless obtained again.
+  - High FP cost for the bear witness skill.
+
+- **Recommended Builds:**
+  - Suitable for strength and faith builds utilizing fire damage.
+  - Recommended to pair with a great shield and incantation casting.
+
+---
+
+## 5. Casus
+- **Key Characteristics:**
+  - Deals physical damage; weighs 1.5.
+  - Requires 8 Strength and 8 Dexterity.
+  - Unique R2 attack strikes repeatedly.
+
+- **Strengths:**
+  - Fast attacks and low requirements.
+  - Effective with talismans that boost attack power.
+
+- **Weaknesses:**
+  - Lower damage compared to other fists.
+  - Short reach and small hitboxes make it easy to miss attacks.
+
+- **Recommended Builds:**
+  - Great for rapid attack, dexterous builds.
+  - Pairs well with talismans like the Winged Sword Insignia for DPS boosts.
+
+---
+
+## 6. Spiked Casus
+- **Key Characteristics:**
+  - Similar to Casus but deals physical damage and has a native bleed build up.
+  - Weighs 2 and requires 8 Strength, 10 Dexterity.
+
+- **Strengths:**
+  - Better damage and bleed potential than Casus.
+  - Retains low weight for a fist weapon.
+
+- **Weaknesses:**
+  - Moderate requirements compared to others.
+  - Similar hitbox issues as Casus.
+
+- **Recommended Builds:**
+  - Excellent for bleed-focused builds.
+  - Use with life steal fist to augment damage and sustain.
+
+---
+
+## 7. Qatar
+- **Key Characteristics:**
+  - Deals physical damage with a critical rating of 110.
+  - Weighs 2.5; requires 8 Strength and 10 Dexterity.
+  - Comes with impaling thrust skill.
+
+- **Strengths:**
+  - High critical damage potential.
+  - Effective for stance breaks and block counters.
+
+- **Weaknesses:**
+  - Limited to mostly physical damage without added scaling.
+  
+- **Recommended Builds:**
+  - Best for builds focusing on critical hits and stance breaking.
+  - Pair with a shield for added defense during attacks.
+
+---
+
+## 8. Iron Ball
+- **Key Characteristics:**
+  - Deals physical damage; weighs 2.5.
+  - Requires 11 Strength and 8 Dexterity.
+  - Provides B's Roar for damage and stamina recovery.
+
+- **Strengths:**
+  - High attack rating and quick access early in the game.
+  - Increases damage negation and boosts physical damage when Roar is active.
+
+- **Weaknesses:**
+  - Short reach compared to other options.
+  
+- **Recommended Builds:**
+  - Suited for strength-focused builds.
+  - Excellent when paired with talismans boosting physical damage.
+
+---
+
+## 9. Starfist
+- **Key Characteristics:**
+  - Similar to Iron Ball with physical damage; heavier at 3.
+  - Requires 12 Strength and 8 Dexterity.
+
+- **Strengths:**
+  - Similar functionality and strategy to the Iron Ball.
+  - Native bleed build upon hit.
+
+- **Weaknesses:**
+  - Slightly higher requirements and heavier.
+
+- **Recommended Builds:**
+  - Works well with builds employing bleed damage.
+  - Combine with life steal fist for optimized damage and healing during combat.
+
+--- 
+
+This summary provides a structured overview of the fist weapons in Elden Ring, highlighting their characteristics, strengths, weaknesses, and optimal builds.
+
+================================================================================
+
+Title: Bows are the Best Weapon in Elden Ring - Elden Ring All Bows, Light Bows & Greatbows Breakdown
+# Elden Ring Equipment Guide: Bows, Light Bows & Great Bows
+
+## 1. Equipment Overview
+
+### A. Weapon Skills
+- **Barrage**: 
+  - Damage penalty: 33% per arrow, increased fire rate by 50%, costs 2 FP.
+- **Mighty Shot**: 
+  - Damage increase: 75%, cost: 6 FP.
+- **Enchanted Shot**: 
+  - Damage increase: 50%, costs: 8 FP, homes to targets.
+- **Skyshot**: 
+  - Damage increase: 33%, arcs shots, more damage on head shots.
+- **Rain of Arrows**: 
+  - Deals 50% less damage, but hits multiple times, costs 20 FP.
+- **Through and Through**: 
+  - 30% more damage, hits enemies behind the target, costs 9 FP.
+
+### B. Light Bows
+1. **Harp Bow**
+   - Type: Light
+   - Damage: Physical
+   - Weight: 1
+   - Requirements: 9 Str, 9 Dex
+   - Special: Harp sound on shot; lowest damage among light bows.
+
+2. **Short Bow**
+   - Type: Light
+   - Damage: Physical
+   - Weight: 2.5
+   - Requirements: 8 Str, 10 Dex
+   - Special: Easy acquisition; bad scaling.
+
+3. **Red Branch Short Bow**
+   - Type: Light
+   - Damage: Physical
+   - Weight: 2.5
+   - Requirements: 8 Str, 16 Dex
+   - Special: Good for pure Dex builds; outclassed by Black Bow.
+
+4. **Composite Bow**
+   - Type: Light
+   - Damage: Physical
+   - Weight: 3
+   - Requirements: 15 Str, 15 Dex
+   - Special: Heaviest light bow; good for Dex builds.
+
+5. **Misbegotten Short Bow**
+   - Type: Light
+   - Damage: Physical
+   - Weight: 3
+   - Requirements: 16 Str, 8 Dex
+   - Special: Highest damage among light bows.
+
+### C. Bows
+1. **Hornbow**
+   - Type: Bow
+   - Damage: Physical and Magic
+   - Weight: 4.5
+   - Requirements: 10 Str, 14 Dex, 12 Int
+   - Special: Worst bow; increase to magic arrows.
+
+2. **Serpent Bow**
+   - Type: Bow
+   - Damage: Physical
+   - Weight: 3.5
+   - Requirements: 8 Str, 15 Dex, 11 Arc
+   - Special: Adds poison buildup.
+
+3. **Long Bow**
+   - Type: Bow
+   - Damage: Physical
+   - Weight: 4
+   - Requirements: 9 Str, 14 Dex
+   - Special: Good early-game option; solid all-around.
+
+4. **Black Bow**
+   - Type: Bow
+   - Damage: Physical
+   - Weight: 4
+   - Requirements: 9 Str, 20 Dex
+   - Special: Better range; lower damage than most bows.
+
+5. **Pulley Bow**
+   - Type: Bow
+   - Damage: Physical
+   - Weight: 5
+   - Requirements: 11 Str, 11 Dex
+   - Special: Best range, highest damage.
+
+6. **Urtree Bow**
+   - Type: Bow
+   - Damage: Physical and Holy
+   - Weight: 4
+   - Requirements: 8 Str, 12 Dex, 14 Faith
+   - Special: Increased damage with Faith scaling.
+
+7. **Albinarc Bow**
+   - Type: Bow
+   - Damage: Physical
+   - Weight: 4.5
+   - Requirements: 7 Str, 18 Dex
+   - Special: Highest damage for rain of arrows; highest base damage.
+
+### D. Great Bows
+1. **Urtree Great Bow**
+   - Type: Great Bow
+   - Damage: Physical and Holy
+   - Weight: 11
+   - Requirements: 20 Str, 14 Dex, 14 Faith
+   - Special: Poor scaling; low damage without buffs.
+
+2. **Great Bow**
+   - Type: Great Bow
+   - Damage: Physical
+   - Weight: 10
+   - Requirements: 20 Str, 20 Dex
+   - Special: Infusable with rain of arrows.
+
+3. **Golem Great Bow**
+   - Type: Great Bow
+   - Damage: Physical
+   - Weight: 14.5
+   - Requirements: 24 Str, 18 Dex
+   - Special: Best per-shot damage; very heavy.
+
+4. **Lion Great Bow**
+   - Type: Great Bow
+   - Damage: Physical
+   - Weight: 9.5
+   - Requirements: 22 Str, 18 Dex
+   - Special: Increases Redon's spear damage by 20%.
+
+## 2. Strengths and Weaknesses
+
+### A. Light Bows
+**Strengths**
+- Fast attack speed and versatile in Ashes of War.
+- Can shoot while moving (jumping, sprinting).
+- Easy to find early in the game.
+
+**Weaknesses**
+- Lower damage per shot and scaling compared to other types.
+- Shortest range among bow types.
+
+### B. Bows
+**Strengths**
+- Higher attack rating than light bows.
+- Reasonable versatility in Ashes of War.
+- Good range similar to great bows.
+
+**Weaknesses**
+- Cannot shoot while moving like light bows.
+- Harder to find early in the game.
+
+### C. Great Bows
+**Strengths**
+- Highest attack rating of all bow types.
+- Excellent range; can infuse with strong skills.
+
+**Weaknesses**
+- Heaviest bow type with the longest draw time.
+- Limited weapon skills; low ammunition capacity.
+
+## 3. Recommended Builds and Playstyles
+
+### A. Light Bows
+- For agile builds focusing on quick strikes and mobility.
+- Ideal for players who enjoy status effects due to skill versatility.
+
+### B. Bows
+- Balanced builds that favor ranged attacks with decent mobility.
+- Good for builds that incorporate Dexterity and Intelligence for magic arrows.
+
+### C. Great Bows
+- Heavy hitting builds that capitalize on high damage output.
+- Fits well into strength and quality builds (equal points in Strength and Dexterity).
+
+## 4. Talismans for Bow Builds
+- **Arrow Sting Talisman**: Increases arrow damage; essential for bow builds.
+- **Arrow’s Reach Talisman**: Extends weapon range; crucial for light bows.
+- **Ritual Sword Talisman**: Boosts attack power when at full health; good for all builds.
+- **Shard of Alexander**: Increases weapon skill damage; beneficial for bow specialists.
+- **Blue Dancer Charm**: Enhances damage with lower equip load; ideal for mobile stealth builds.
+- **Spear Talisman**: Raises piercing damage; useful for counter-attacking.
+
+This comprehensive guide provides an overview of the equipment discussed in the Elden Ring video, effectively highlighting each bow type's unique characteristics, strengths, weaknesses, and specific build recommendations.
+
+================================================================================
+
