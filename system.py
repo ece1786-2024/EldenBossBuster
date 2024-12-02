@@ -86,6 +86,9 @@ class EldenGuideSystem:
             "content": message
         })
 
+    def clear_messages(self):
+        self.messages = []
+
     def run(self, prompt):
         count = 0
         self.messages.append({"role": "user", "content": prompt})
