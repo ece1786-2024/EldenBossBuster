@@ -1,0 +1,33 @@
+Querying... 0
+To effectively deal with Rennala, Queen of the Full Moon, as a Level 35 Vagabond focusing on Strength and Vigor, here are some consolidated tips based on your current situation:
+
+### Build and Equipment Adjustments:
+
+1. **Armor and Resistance:**
+   - Equip armor with high Magic Defense to mitigate her powerful spells. The **Carian Knight Set** is ideal if you have it.
+   - Consider using a shield with high Magic resistance. The **Carian Knight's Shield** is a good option and can be found in Raya Lucaria Academy in the graveyard area.
+
+2. **Stat Allocation:**
+   - Continue prioritizing Vigor to increase your HP and survivability.
+   - Consider allocating points into Endurance for better stamina management and to handle heavier armor or shields for additional protection.
+
+3. **Weapon Upgrades:**
+   - Ensure your Greatsword is upgraded as much as possible using Smithing Stones to maximize damage output.
+   - If available, experiment with faster weapons or those with magic scaling for potentially better results against Rennala's resistances.
+
+### Combat Strategy:
+
+1. **First Phase:**
+   - Focus on breaking the protective barriers created by the glowing students to bring Rennala down. Use this opportunity to deal substantial damage with your Greatsword.
+   
+2. **Second Phase:**
+   - Maintain mobility and learn her spell-casting patterns for effective dodging.
+   - Target her after she performs large spells or summons spirits, utilizing the recovery windows to attack.
+
+### Additional Tips:
+
+- **Spirit Ashes:** Summon allies to distract Rennala and her summons, providing opportunities for you to attack.
+- **Consumables:** Use items that boost Magic resistance or overall defense during the fight.
+- **Patience and Practice:** Understanding her attack patterns and timing is crucial, especially in the second phase.
+
+Following these strategies should help you improve your chances against Rennala. Remember, adjusting your approach based on your equipment and play style is key in challenging boss fights like this one. Good luck!
