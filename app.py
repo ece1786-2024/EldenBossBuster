@@ -1,4 +1,4 @@
-from flask import Flask, request, jsonify, send_file
+from flask import Flask, request, jsonify, send_file, render_template, send_from_directory
 import openai
 import os
 from flask_cors import CORS
@@ -13,8 +13,8 @@ openai.api_key = os.getenv("OPENAI_API_KEY")
 conversation_history = [{"role": "system", "content": "You are a helpful assistant."}]
 
 @app.route('/')
-def serve_frontend():
-    return send_file('frontend.html')  # Serve the HTML file
+def index():
+    return render_template('frontend.html')
 
 @app.route('/chat', methods=['POST'])
 def chat():
