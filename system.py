@@ -2,6 +2,7 @@ from llama_index.core import StorageContext, load_index_from_storage
 from llama_index.llms.openai import OpenAI
 import openai
 
+
 class RAG_agent:
     def __init__(self, index_path):
         storage_context = StorageContext.from_defaults(persist_dir=index_path)
@@ -21,18 +22,17 @@ class RAG_agent:
 
 class Query_agent:
     # This agent takes user prompt and refine to a query for specific RAG agent
-    def __init__(self, description, history=[]):
+    def __init__(self, description, history):
         self.client = openai.OpenAI()
-        self.messages = history + [
+        self.history = history
+        self.description = [
             {"role": "system", "content": description},
-            {"role": "user", "content": ""}
         ]
 
-    def create_query(self, prompt):
-        self.messages[1]["content"] = prompt
+    def create_query(self):
         response = self.client.chat.completions.create(
             model="gpt-4o",
-            messages=self.messages,
+            messages=self.history + self.description,
             max_tokens=1000,
             n=1,
             top_p=0.95,
@@ -52,10 +52,9 @@ class Response_agent:
         ]
 
     def respond(self):
-        print(self.messages)
         response = self.client.chat.completions.create(
             model="gpt-4o",
-            messages=self.messages,
+            messages=self.messages + self.description,
             max_tokens=1000,
             n=1,
             top_p=0.95,
@@ -64,50 +63,22 @@ class Response_agent:
         )
         return response.choices[0].message.content
 
-
-STRATEGY_QUERY_DESCRIPTION = """You are a Strategy Query Refinement Agent.
-Your primary function is to interpret the user's prompts related to 
-gameplay strategies, character builds, or weapon recommendations in Elden Ring. 
-You focus on understanding the user's goals, preferences, and challenges. You 
-then refine and formulate an effective query tailored to retrieve relevant 
-information from the "YouTuber Strategy and Weapon Recommendations" vector store. 
-By crafting precise queries, you enhance the RAG process, ensuring that the most 
-pertinent strategic insights are fetched on behalf of the user.
-You should ONLY return a single query itself."""
-
-GAMEINFO_QUERY_DESCRIPTION = """You are an In-Game Data Query Refinement Agent.
-Specializing in in-game data retrieval, you analyze the user's requests for 
-specific information about items, such as locations, weights, prices, or stats 
-within Elden Ring. Your role is to comprehend the exact details the user is 
-seeking and refine the query accordingly. You construct an optimized search query 
-to access the required information from the "In-Game Data" vector store sourced 
-from the Elden Ring wiki. By focusing on precise query formulation, you facilitate 
-the RAG process to deliver accurate in-game data on behalf of the user.
-You should ONLY return a single query itself."""
-
-FINAL_RESPONSE_DESCRIPTION = """You are an intelligent response agent tasked with 
-generating clear and helpful answers to the user's initial prompts by effectively 
-utilizing the query results obtained from the RAG process. With access to the 
-complete message history—including the user's original question and the information 
-retrieved from both the "YouTuber Strategy and Weapon Recommendations" and "In-Game 
-Data" vector stores—you analyze the relevance and accuracy of the retrieved 
-information. Your goal is to construct informed responses that integrate pertinent 
-data to provide comprehensive and useful answers. If the query results are 
-irrelevant or insufficient, you recognize this and avoid confusing the user, opting 
-instead to inform them that specific information is not available or to ask 
-clarifying questions. By intelligently handling both relevant and irrelevant query 
-results, you ensure the user receives meaningful assistance without unnecessary 
-confusion, enhancing their experience with the Elden Ring game guide system."""
-
+KEYWORD = "ADDITIONAL_QUERY_REQUIRED"
 
 class EldenGuideSystem:
-    def __init__(self, strategy_agent, gameinfo_agent):
+    # The agent system that takes user prompt and return the final response
+    def __init__(self, strategy_agent, gameinfo_agent, 
+                 strategy_query_description, 
+                 gameinfo_query_description, 
+                 loop_response_description, 
+                 final_response_description):
         self.messages = []
         self.strategy_agent = strategy_agent
         self.gameinfo_agent = gameinfo_agent
-        self.strategy_query_agent = Query_agent(STRATEGY_QUERY_DESCRIPTION)
-        self.gameinfo_query_agent = Query_agent(GAMEINFO_QUERY_DESCRIPTION)
-        self.final_response_agent = Response_agent(FINAL_RESPONSE_DESCRIPTION, self.messages)
+        self.strategy_query_agent = Query_agent(strategy_query_description, self.messages)
+        self.gameinfo_query_agent = Query_agent(gameinfo_query_description, self.messages)
+        self.loop_response_agent = Response_agent(loop_response_description, self.messages)
+        self.final_response_agent = Response_agent(final_response_description, self.messages)
 
     def push_assistant_message(self, message):
         self.messages.append({
@@ -116,11 +87,26 @@ class EldenGuideSystem:
         })
 
     def run(self, prompt):
-        strategy_query = self.strategy_query_agent.create_query(prompt)
-        strategy_response = self.strategy_agent.query(strategy_query)
-        self.push_assistant_message(strategy_response)
-        gameinfo_query = self.gameinfo_query_agent.create_query(prompt)
-        gameinfo_response = self.gameinfo_agent.query(gameinfo_query)
-        self.push_assistant_message(gameinfo_response)
-        final_response = self.final_response_agent.respond()
+        count = 0
+        self.messages.append({"role": "user", "content": prompt})
+        while count < 3:
+            print(f"Querying... {count}")
+            strategy_query = self.strategy_query_agent.create_query()
+            strategy_response = self.strategy_agent.query(strategy_query)
+            self.push_assistant_message("Strategy query result: " + str(strategy_response))
+            gameinfo_query = self.gameinfo_query_agent.create_query()
+            gameinfo_response = self.gameinfo_agent.query(gameinfo_query)
+            self.push_assistant_message("In-game data query result: " + str(gameinfo_response))
+            loop_response = self.loop_response_agent.respond()
+            if KEYWORD in loop_response:
+                count += 1
+            else:
+                break
+
+        if count >= 3:
+            final_response = self.final_response_agent.respond()
+        else:
+            final_response = loop_response
         return final_response
+
+
