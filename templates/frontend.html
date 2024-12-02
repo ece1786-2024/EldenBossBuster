@@ -1,1 +1,324 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EldenBossBuster</title>
+    <style>
+        /* Global Reset */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
 
+        #sendButton {
+            background: none; /* Remove the default background */
+            border: none; /* Remove borders */
+            padding: 0; /* Remove padding */
+            margin: 0; /* Remove margin */
+            cursor: pointer; /* Change cursor to pointer */
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .send-icon {
+            width: 50px; /* Set image width */
+            height: 50px; /* Set image height */
+        }
+
+        body {
+            font-family: 'Arial', sans-serif;
+            background: linear-gradient(to bottom, #f3f4f6, #e9ecef);
+            height: 100vh;
+            overflow: hidden; /* Prevent scrolling */
+        }
+
+        /* Sidebar */
+        .sidebar {
+            width: 250px;
+            background-color: #333;
+            color: #fff;
+            display: flex;
+            flex-direction: column;
+            padding: 10px;
+            position: fixed;
+            top: 60px; /* Below header */
+            height: calc(100% - 60px); /* Exclude header */
+            overflow-y: auto;
+            transform: translateX(-250px); /* Hidden by default */
+            transition: transform 0.3s ease;
+        }
+
+        .sidebar.open {
+            transform: translateX(0); /* Show sidebar */
+        }
+
+        .sidebar h2 {
+            font-size: 1.2rem;
+            margin-bottom: 10px;
+        }
+
+        .sidebar ul {
+            list-style: none;
+        }
+
+        .sidebar ul li {
+            padding: 10px;
+            border-bottom: 1px solid #444;
+            cursor: pointer;
+        }
+
+        .sidebar ul li:hover {
+            background-color: #444;
+        }
+
+        /* Header */
+        .chat-header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 0 20px;
+            height: 60px;
+            background-color: #0078d7;
+            color: white;
+            font-weight: bold;
+            font-size: 1.5rem;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            z-index: 1000;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+        }
+
+        .chat-header span {
+            margin-left: 40px; /* Spacing between toggle and text */
+        }
+
+        .toggle-btn {
+            background: transparent;
+            border: none;
+            color: white;
+            font-size: 1.5rem;
+            cursor: pointer;
+            transition: color 0.3s ease;
+        }
+
+        .toggle-btn:hover {
+            color: #d1eaff;
+        }
+
+        /* Chat Container */
+        .chat-container {
+            margin-top: 60px; /* Below the header */
+            margin-left: 0; /* Full width by default */
+            height: calc(100% - 60px); /* Take full screen minus header */
+            display: flex;
+            flex-direction: column;
+            transition: margin-left 0.3s ease, width 0.3s ease;
+        }
+
+        .chat-container.sidebar-open {
+            margin-left: 250px; /* Adjust when sidebar is open */
+            width: calc(100% - 250px); /* Shrink width */
+        }
+
+        /* Chat Box */
+        .chat-box {
+            flex: 1;
+            padding: 15px;
+            overflow-y: auto;
+            background: url('/static/luen.png') no-repeat center center; /* Add background image */
+            background-size: cover; /* Ensure the image covers the area */
+            position: relative;
+        }
+
+        .chat-box::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            pointer-events: none; /* Ensure the content inside chat-box is clickable */
+            z-index: 1; /* Place the overlay above the background */
+        }
+
+        .chat-box p {
+            max-width: 70%;
+            margin: 10px 0;
+            padding: 10px 15px;
+            border-radius: 15px;
+            font-size: 0.9rem;
+            line-height: 1.4;
+            word-wrap: break-word;
+        }
+
+        /* User Message */
+        .user-message {
+            margin-left: auto; /* Push to the right */
+            margin-right: 0; /* Remove any extra margin on the right */
+            background: #ffffff; /* White background */
+            color: #333; /* Dark text */
+            padding: 10px 15px; /* Add padding */
+            border-radius: 15px; /* Rounded corners */
+            max-width: 70%; /* Limit bubble width */
+            margin-bottom: 10px; /* Add spacing between messages */
+            word-wrap: break-word; /* Ensure long words wrap */
+            box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2); /* Subtle shadow */
+            text-align: left; /* Ensure text is aligned properly inside */
+        }
+
+
+        /* Bot Message */
+        .bot-message {
+            margin-right: auto; /* Align to the left */
+            background-color: #f1f1f1; /* Light gray background */
+            color: #333; /* Dark text */
+            padding: 10px 15px; /* Add padding */
+            border-radius: 15px; /* Rounded corners */
+            max-width: 70%; /* Restrict the bubble width */
+            margin-bottom: 10px; /* Add spacing */
+            word-wrap: break-word; /* Ensure long words wrap */
+            box-shadow: 0px 2px 5px rgba(1, 208, 255, 0.2); /* Subtle shadow */
+        }
+
+
+        /* Input Box */
+        .input-box {
+            display: flex;
+            border-top: 1px solid #ccc;
+            background: #ffffff;
+            padding: 10px;
+        }
+
+        .input-box input {
+            flex: 1;
+            border: none;
+            padding: 15px;
+            font-size: 1rem;
+            border-radius: 25px;
+            outline: none;
+            background: #f3f3f3;
+            margin-right: 10px;
+        }
+
+        .input-box button {
+            background-color: #0078d7;
+            border: none;
+            color: white;
+            padding: 15px 25px;
+            font-size: 1rem;
+            border-radius: 25px;
+            cursor: pointer;
+            transition: background-color 0.3s ease, transform 0.1s ease;
+        }
+
+        .input-box button:hover {
+            background-color: #005bb5;
+        }
+
+        .input-box button:active {
+            transform: scale(0.95);
+        }
+    </style>
+</head>
+<body>
+    <!-- Sidebar -->
+    <div id="sidebar" class="sidebar">
+        <h2>Chat History</h2>
+        <ul>
+            <li>Conversation 1</li>
+            <li>Conversation 2</li>
+            <li>Conversation 3</li>
+        </ul>
+    </div>
+
+    <!-- Main Chat Container -->
+    <div id="chat-container" class="chat-container">
+        <!-- Header -->
+        <div class="chat-header">
+            <button id="toggleSidebar" class="toggle-btn">☰</button>
+            <span>EldenBossBuster</span>
+        </div>
+
+        <!-- Chat Box -->
+        <div id="chat" class="chat-box"></div>
+
+        <!-- Input Box -->
+        <div class="input-box">
+            <input id="message" type="text" placeholder="Type your message...">
+            <button id="sendButton" onclick="sendMessage()"> <!-- Apply onclick to the button -->
+                <img src="static/sword.png" alt="Send" class="send-icon">
+            </button>
+        </div>
+    </div>
+
+    <script>
+        // Sidebar toggle functionality
+        const sidebar = document.getElementById('sidebar');
+        const chatContainer = document.getElementById('chat-container');
+        const toggleSidebar = document.getElementById('toggleSidebar');
+
+        toggleSidebar.addEventListener('click', () => {
+            sidebar.classList.toggle('open');
+            chatContainer.classList.toggle('sidebar-open');
+        });
+
+        async function sendMessage() {
+            const userMessage = document.getElementById('message').value.trim(); // Get input value and trim whitespace
+            if (!userMessage) return;
+
+            // Add user message to chat
+            const chatBox = document.getElementById('chat');
+            const userMsgElem = document.createElement('p');
+            userMsgElem.className = 'user-message';
+            userMsgElem.textContent = userMessage;
+            chatBox.appendChild(userMsgElem);
+
+            // Scroll to the bottom of the chat box
+            chatBox.scrollTop = chatBox.scrollHeight;
+
+            // Send message to the backend
+            try {
+                const response = await fetch('/chat', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify({ message: userMessage }), // Send the user message
+                });
+
+                if (!response.ok) throw new Error('Error communicating with the server');
+
+                const data = await response.json();
+
+                // Add bot response to chat
+                const botMsgElem = document.createElement('p');
+                botMsgElem.className = 'bot-message';
+                botMsgElem.textContent = data.response; // Use the response from the backend
+                chatBox.appendChild(botMsgElem);
+
+                // Scroll to the bottom of the chat box
+                chatBox.scrollTop = chatBox.scrollHeight;
+
+            } catch (error) {
+                console.error('Error:', error);
+
+                // Display error message in the chat
+                const errorMsgElem = document.createElement('p');
+                errorMsgElem.className = 'bot-message';
+                errorMsgElem.textContent = 'An error occurred. Please try again.';
+                chatBox.appendChild(errorMsgElem);
+                chatBox.scrollTop = chatBox.scrollHeight;
+            }
+
+            // Clear the input field
+            document.getElementById('message').value = '';
+        }
+
+    </script>
+</body>
+</html>
