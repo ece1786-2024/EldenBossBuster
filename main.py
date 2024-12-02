@@ -53,7 +53,7 @@ def main():
             break
         elif user_input.lower() == 'new':
             system.clear_messages()
-            print("New chat started.")
+            greet()
             continue
         elif user_input.lower() == 'hidden':
             print(system.messages)
