@@ -13,26 +13,26 @@
         }
 
         #sendButton {
-            background: none; /* Remove the default background */
-            border: none; /* Remove borders */
-            padding: 0; /* Remove padding */
-            margin: 0; /* Remove margin */
-            cursor: pointer; /* Change cursor to pointer */
+            background: none;
+            border: none;
+            padding: 0;
+            margin: 0;
+            cursor: pointer;
             display: flex;
             align-items: center;
             justify-content: center;
         }
 
         .send-icon {
-            width: 50px; /* Set image width */
-            height: 50px; /* Set image height */
+            width: 50px;
+            height: 50px;
         }
 
         body {
             font-family: 'Arial', sans-serif;
             background: linear-gradient(to bottom, #f3f4f6, #e9ecef);
             height: 100vh;
-            overflow: hidden; /* Prevent scrolling */
+            overflow: hidden;
         }
 
         /* Sidebar */
@@ -44,15 +44,15 @@
             flex-direction: column;
             padding: 10px;
             position: fixed;
-            top: 60px; /* Below header */
-            height: calc(100% - 60px); /* Exclude header */
+            top: 60px;
+            height: calc(100% - 60px);
             overflow-y: auto;
-            transform: translateX(-250px); /* Hidden by default */
+            transform: translateX(-250px);
             transition: transform 0.3s ease;
         }
 
         .sidebar.open {
-            transform: translateX(0); /* Show sidebar */
+            transform: translateX(0);
         }
 
         .sidebar h2 {
@@ -94,7 +94,7 @@
         }
 
         .chat-header span {
-            margin-left: 40px; /* Spacing between toggle and text */
+            margin-left: 40px;
         }
 
         .toggle-btn {
@@ -112,17 +112,17 @@
 
         /* Chat Container */
         .chat-container {
-            margin-top: 60px; /* Below the header */
-            margin-left: 0; /* Full width by default */
-            height: calc(100% - 60px); /* Take full screen minus header */
+            margin-top: 60px;
+            margin-left: 0;
+            height: calc(100% - 60px);
             display: flex;
             flex-direction: column;
             transition: margin-left 0.3s ease, width 0.3s ease;
         }
 
         .chat-container.sidebar-open {
-            margin-left: 250px; /* Adjust when sidebar is open */
-            width: calc(100% - 250px); /* Shrink width */
+            margin-left: 250px;
+            width: calc(100% - 250px);
         }
 
         /* Chat Box */
@@ -130,20 +130,9 @@
             flex: 1;
             padding: 15px;
             overflow-y: auto;
-            background: url('/static/luen.png') no-repeat center center; /* Add background image */
-            background-size: cover; /* Ensure the image covers the area */
+            background: url('/static/luen.png') no-repeat center center;
+            background-size: cover;
             position: relative;
-        }
-
-        .chat-box::before {
-            content: '';
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            pointer-events: none; /* Ensure the content inside chat-box is clickable */
-            z-index: 1; /* Place the overlay above the background */
         }
 
         .chat-box p {
@@ -156,35 +145,24 @@
             word-wrap: break-word;
         }
 
-        /* User Message */
         .user-message {
-            margin-left: auto; /* Push to the right */
-            margin-right: 0; /* Remove any extra margin on the right */
-            background: #ffffff; /* White background */
-            color: #333; /* Dark text */
-            padding: 10px 15px; /* Add padding */
-            border-radius: 15px; /* Rounded corners */
-            max-width: 70%; /* Limit bubble width */
-            margin-bottom: 10px; /* Add spacing between messages */
-            word-wrap: break-word; /* Ensure long words wrap */
-            box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2); /* Subtle shadow */
-            text-align: left; /* Ensure text is aligned properly inside */
+            margin-left: auto;
+            background: #ffffff;
+            color: #333;
+            padding: 10px 15px;
+            border-radius: 15px;
+            box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2);
+            text-align: left;
         }
 
-
-        /* Bot Message */
         .bot-message {
-            margin-right: auto; /* Align to the left */
-            background-color: #f1f1f1; /* Light gray background */
-            color: #333; /* Dark text */
-            padding: 10px 15px; /* Add padding */
-            border-radius: 15px; /* Rounded corners */
-            max-width: 70%; /* Restrict the bubble width */
-            margin-bottom: 10px; /* Add spacing */
-            word-wrap: break-word; /* Ensure long words wrap */
-            box-shadow: 0px 2px 5px rgba(1, 208, 255, 0.2); /* Subtle shadow */
+            margin-right: auto;
+            background-color: #f1f1f1;
+            color: #333;
+            padding: 10px 15px;
+            border-radius: 15px;
+            box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2);
         }
-
 
         /* Input Box */
         .input-box {
@@ -200,28 +178,12 @@
             padding: 15px;
             font-size: 1rem;
             border-radius: 25px;
-            outline: none;
             background: #f3f3f3;
             margin-right: 10px;
         }
 
-        .input-box button {
-            background-color: #0078d7;
-            border: none;
-            color: white;
-            padding: 15px 25px;
-            font-size: 1rem;
-            border-radius: 25px;
-            cursor: pointer;
-            transition: background-color 0.3s ease, transform 0.1s ease;
-        }
-
         .input-box button:hover {
-            background-color: #005bb5;
-        }
-
-        .input-box button:active {
-            transform: scale(0.95);
+            transform: scale(1.1);
         }
     </style>
 </head>
@@ -245,13 +207,19 @@
         </div>
 
         <!-- Chat Box -->
-        <div id="chat" class="chat-box"></div>
+        <div id="chat" class="chat-box">
+            <!-- Hardcoded Messages for Demo -->
+            <p class="bot-message">
+                Hello! I am EldenBossBuster Agent. How can I help you today? You can try to provide boss name, weapon name and your goal so I can help you better.
+            </p>
+        </div>
+
 
         <!-- Input Box -->
         <div class="input-box">
-            <input id="message" type="text" placeholder="Type your message...">
-            <button id="sendButton" onclick="sendMessage()"> <!-- Apply onclick to the button -->
-                <img src="static/sword.png" alt="Send" class="send-icon">
+            <input id="message" type="text" placeholder="Brave warrior, what is your setback?...">
+            <button id="sendButton" onclick="sendMessage()">
+                <img src="/static/sword.png" alt="Send" class="send-icon">
             </button>
         </div>
     </div>
@@ -268,57 +236,46 @@
         });
 
         async function sendMessage() {
-            const userMessage = document.getElementById('message').value.trim(); // Get input value and trim whitespace
+            const userMessage = document.getElementById('message').value.trim();
             if (!userMessage) return;
 
-            // Add user message to chat
             const chatBox = document.getElementById('chat');
+
+            // User Message
             const userMsgElem = document.createElement('p');
             userMsgElem.className = 'user-message';
             userMsgElem.textContent = userMessage;
             chatBox.appendChild(userMsgElem);
-
-            // Scroll to the bottom of the chat box
             chatBox.scrollTop = chatBox.scrollHeight;
 
-            // Send message to the backend
+            // Backend Communication
             try {
                 const response = await fetch('/chat', {
                     method: 'POST',
-                    headers: {
-                        'Content-Type': 'application/json',
-                    },
-                    body: JSON.stringify({ message: userMessage }), // Send the user message
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ message: userMessage }),
                 });
 
-                if (!response.ok) throw new Error('Error communicating with the server');
-
+                if (!response.ok) throw new Error('Server error');
                 const data = await response.json();
 
-                // Add bot response to chat
+                // Bot Message
                 const botMsgElem = document.createElement('p');
                 botMsgElem.className = 'bot-message';
-                botMsgElem.textContent = data.response; // Use the response from the backend
+                botMsgElem.textContent = data.response;
                 chatBox.appendChild(botMsgElem);
-
-                // Scroll to the bottom of the chat box
                 chatBox.scrollTop = chatBox.scrollHeight;
-
             } catch (error) {
-                console.error('Error:', error);
-
-                // Display error message in the chat
-                const errorMsgElem = document.createElement('p');
-                errorMsgElem.className = 'bot-message';
-                errorMsgElem.textContent = 'An error occurred. Please try again.';
-                chatBox.appendChild(errorMsgElem);
+                console.error(error);
+                const botMsgElem = document.createElement('p');
+                botMsgElem.className = 'bot-message';
+                botMsgElem.textContent = 'An error occurred. Please try again.';
+                chatBox.appendChild(botMsgElem);
                 chatBox.scrollTop = chatBox.scrollHeight;
             }
 
-            // Clear the input field
             document.getElementById('message').value = '';
         }
-
     </script>
 </body>
 </html>
