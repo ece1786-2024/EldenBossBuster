@@ -1,0 +1,290 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EldenBossBuster</title>
+    <style>
+        /* Global Reset */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        #sendButton {
+            background: none;
+            border: none;
+            padding: 0;
+            margin: 0;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .send-icon {
+            width: 50px;
+            height: 50px;
+        }
+
+        body {
+            font-family: 'Arial', sans-serif;
+            background: linear-gradient(to bottom, #f3f4f6, #e9ecef);
+            height: 100vh;
+            overflow: hidden;
+        }
+
+        /* Sidebar */
+        .sidebar {
+            width: 250px;
+            background-color: #333;
+            color: #fff;
+            display: flex;
+            flex-direction: column;
+            padding: 10px;
+            position: fixed;
+            top: 60px;
+            height: calc(100% - 60px);
+            overflow-y: auto;
+            transform: translateX(-250px);
+            transition: transform 0.3s ease;
+        }
+
+        .sidebar.open {
+            transform: translateX(0);
+        }
+
+        .sidebar h2 {
+            font-size: 1.2rem;
+            margin-bottom: 10px;
+        }
+
+        .sidebar ul {
+            list-style: none;
+        }
+
+        .sidebar ul li {
+            padding: 10px;
+            border-bottom: 1px solid #444;
+            cursor: pointer;
+        }
+
+        .sidebar ul li:hover {
+            background-color: #444;
+        }
+
+        /* Header */
+        .chat-header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 0 20px;
+            height: 60px;
+            background-color: #0078d7;
+            color: white;
+            font-weight: bold;
+            font-size: 1.5rem;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            z-index: 1000;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+        }
+
+        .chat-header span {
+            margin-left: 40px;
+        }
+
+        .toggle-btn {
+            background: transparent;
+            border: none;
+            color: white;
+            font-size: 1.5rem;
+            cursor: pointer;
+            transition: color 0.3s ease;
+        }
+
+        .toggle-btn:hover {
+            color: #d1eaff;
+        }
+
+        /* Chat Container */
+        .chat-container {
+            margin-top: 60px;
+            margin-left: 0;
+            height: calc(100% - 60px);
+            display: flex;
+            flex-direction: column;
+            transition: margin-left 0.3s ease, width 0.3s ease;
+        }
+
+        .chat-container.sidebar-open {
+            margin-left: 250px;
+            width: calc(100% - 250px);
+        }
+
+        /* Chat Box */
+        .chat-box {
+            flex: 1;
+            padding: 15px;
+            overflow-y: auto;
+            background: url('/static/luen.png') no-repeat center center;
+            background-size: cover;
+            position: relative;
+        }
+
+        .chat-box p {
+            max-width: 70%;
+            margin: 10px 0;
+            padding: 10px 15px;
+            border-radius: 15px;
+            font-size: 0.9rem;
+            line-height: 1.4;
+            word-wrap: break-word;
+        }
+
+        .user-message {
+            margin-left: auto;
+            background-color: #d1e7ff;;
+            color: #333;
+            padding: 10px 15px;
+            border-radius: 15px;
+            box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2);
+            text-align: left;
+        }
+
+        .bot-message {
+            margin-right: auto;
+            background-color: #f1f1f1;
+            color: #333;
+            padding: 10px 15px;
+            border-radius: 15px;
+            box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2);
+        }
+
+        /* Input Box */
+        .input-box {
+            display: flex;
+            border-top: 1px solid #ccc;
+            background: #ffffff;
+            padding: 10px;
+        }
+
+        .input-box input {
+            flex: 1;
+            border: none;
+            padding: 15px;
+            font-size: 1rem;
+            border-radius: 25px;
+            background: #f3f3f3;
+            margin-right: 10px;
+        }
+
+        .input-box button:hover {
+            transform: scale(1.1);
+        }
+    </style>
+</head>
+<body>
+    <!-- Sidebar -->
+    <div id="sidebar" class="sidebar">
+        <h2>Chat History</h2>
+        <ul>
+            <li>Conversation 1</li>
+            <li>Conversation 2</li>
+            <li>Conversation 3</li>
+        </ul>
+    </div>
+
+    <!-- Main Chat Container -->
+    <div id="chat-container" class="chat-container">
+        <!-- Header -->
+        <div class="chat-header">
+            <button id="toggleSidebar" class="toggle-btn">☰</button>
+            <span>EldenBossBuster</span>
+        </div>
+
+        <!-- Chat Box -->
+        <div id="chat" class="chat-box">
+            <!-- Hardcoded Messages for Demo -->
+            <p class="bot-message">
+                Welcome to the LLM Multi-Agent System Chat Interface.
+                Close the window to end the chat.
+                Type 'new' to start a new chat.
+                Type 'hidden' to see the hidden messages.
+            </p>
+        </div>
+
+
+        <!-- Input Box -->
+        <div class="input-box">
+            <input id="message" type="text" placeholder="Brave warrior, what is your setback?...">
+            <button id="sendButton" onclick="sendMessage()">
+                <img src="/static/sword.png" alt="Send" class="send-icon">
+            </button>
+        </div>
+    </div>
+
+    <script>
+        // Sidebar toggle functionality
+        const sidebar = document.getElementById('sidebar');
+        const chatContainer = document.getElementById('chat-container');
+        const toggleSidebar = document.getElementById('toggleSidebar');
+
+        toggleSidebar.addEventListener('click', () => {
+            sidebar.classList.toggle('open');
+            chatContainer.classList.toggle('sidebar-open');
+        });
+
+        async function sendMessage() {
+            const userMessage = document.getElementById('message').value.trim();
+            if (!userMessage) return;
+
+            const chatBox = document.getElementById('chat');
+
+            // User Message
+            const userMsgElem = document.createElement('p');
+            userMsgElem.className = 'user-message';
+            userMsgElem.textContent = userMessage;
+            chatBox.appendChild(userMsgElem);
+            chatBox.scrollTop = chatBox.scrollHeight;
+
+            // Backend Communication
+            try {
+                const response = await fetch('/chat', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ message: userMessage }),
+                });
+
+                if (!response.ok) throw new Error('Server error');
+                const data = await response.json();
+
+                // If "new" command, refresh the page
+                if (userMessage.toLowerCase() === 'new') {
+                    location.reload(); // Refresh the page
+                    return; // Stop further processing
+                }
+
+                // Bot Message
+                const botMsgElem = document.createElement('p');
+                botMsgElem.className = 'bot-message';
+                botMsgElem.textContent = data.response;
+                chatBox.appendChild(botMsgElem);
+                chatBox.scrollTop = chatBox.scrollHeight;
+            } catch (error) {
+                console.error(error);
+                const botMsgElem = document.createElement('p');
+                botMsgElem.className = 'bot-message';
+                botMsgElem.textContent = 'An error occurred. Please try again.';
+                chatBox.appendChild(botMsgElem);
+                chatBox.scrollTop = chatBox.scrollHeight;
+            }
+
+            document.getElementById('message').value = '';
+        }
+    </script>
+</body>
+</html>
