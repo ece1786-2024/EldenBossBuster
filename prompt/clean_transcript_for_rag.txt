@@ -1,0 +1,14 @@
+prompt = f"""
+    This is a transcript of a boss fight guide for Elden Ring. Your task is to extract structured information about the boss fight while ensuring the boss’s name is explicitly referenced throughout the output.
+
+    Input:
+    - Video Title: {title}
+    - Transcript: {transcript}
+
+    Task:
+    1. Summarize the key strategy for defeating the boss, explicitly mentioning the boss name throughout.
+    2. List the recommended equipment, abilities, or techniques, ensuring they are tied to the boss name wherever relevant.
+    3. Provide specific tips for melee and ranged builds, explicitly mentioning the boss name in the tips.
+    4. Structure the output with the following headings, ensuring the boss name appears in each section:
+    
+    """
