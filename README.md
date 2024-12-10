@@ -17,3 +17,5 @@ This utilizes **LlamaIndex**, **LangChain**, and **OpenAI** to query pre-indexed
 ## Run Main.py
 It required index folder, but it is too big to upload to github. If you don't have it, please
 run text2index.ipynb under preprocess_RAG_data folder.
+
+Then, we can use python main.py to run the frontend page(It may require some time to load the RAG).
